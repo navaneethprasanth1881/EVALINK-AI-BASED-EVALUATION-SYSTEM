@@ -1,0 +1,157 @@
+{
+    "total_pages": 8,
+    "pages": [
+        {
+            "page_number": 1,
+            "blur": 106.49873646294624,
+            "brightness": 236.32562515022954,
+            "contrast": 56.726087707428015,
+            "noise": 4.198460578918457,
+            "shadow_percentage": 5.1827526602406335,
+            "width": 2481,
+            "height": 3508,
+            "status": "ACCEPTABLE",
+            "checks": {
+                "blur": true,
+                "brightness": false,
+                "contrast": true,
+                "noise": true,
+                "shadow": true,
+                "resolution": true
+            }
+        },
+        {
+            "page_number": 2,
+            "blur": 24.605486474607584,
+            "brightness": 190.0859692095215,
+            "contrast": 25.172758105837246,
+            "noise": 2.004307985305786,
+            "shadow_percentage": 0.322270967043085,
+            "width": 2238,
+            "height": 3300,
+            "status": "POOR",
+            "checks": {
+                "blur": false,
+                "brightness": false,
+                "contrast": false,
+                "noise": true,
+                "shadow": true,
+                "resolution": true
+            }
+        },
+        {
+            "page_number": 3,
+            "blur": 32.77705969748505,
+            "brightness": 187.5213222409774,
+            "contrast": 24.17421896052825,
+            "noise": 2.3105568885803223,
+            "shadow_percentage": 0.5473300645714438,
+            "width": 2262,
+            "height": 3300,
+            "status": "ACCEPTABLE",
+            "checks": {
+                "blur": false,
+                "brightness": true,
+                "contrast": false,
+                "noise": true,
+                "shadow": true,
+                "resolution": true
+            }
+        },
+        {
+            "page_number": 4,
+            "blur": 4.604848537702549,
+            "brightness": 192.85033352138404,
+            "contrast": 18.36376524834338,
+            "noise": 0.8508038520812988,
+            "shadow_percentage": 0.012518805071996562,
+            "width": 2256,
+            "height": 3300,
+            "status": "POOR",
+            "checks": {
+                "blur": false,
+                "brightness": false,
+                "contrast": false,
+                "noise": true,
+                "shadow": true,
+                "resolution": true
+            }
+        },
+        {
+            "page_number": 5,
+            "blur": 23.132799107121198,
+            "brightness": 186.85009481738365,
+            "contrast": 24.417455490955177,
+            "noise": 1.9345908164978027,
+            "shadow_percentage": 0.4092422866264828,
+            "width": 2202,
+            "height": 3300,
+            "status": "ACCEPTABLE",
+            "checks": {
+                "blur": false,
+                "brightness": true,
+                "contrast": false,
+                "noise": true,
+                "shadow": true,
+                "resolution": true
+            }
+        },
+        {
+            "page_number": 6,
+            "blur": 18.913907444493276,
+            "brightness": 178.40932760912617,
+            "contrast": 25.112705012904488,
+            "noise": 1.7539178133010864,
+            "shadow_percentage": 0.5105260302216434,
+            "width": 2234,
+            "height": 3300,
+            "status": "ACCEPTABLE",
+            "checks": {
+                "blur": false,
+                "brightness": true,
+                "contrast": false,
+                "noise": true,
+                "shadow": true,
+                "resolution": true
+            }
+        },
+        {
+            "page_number": 7,
+            "blur": 4.4174869051663075,
+            "brightness": 189.21231317322605,
+            "contrast": 20.223350379729435,
+            "noise": 0.8315839171409607,
+            "shadow_percentage": 0.021375581541556648,
+            "width": 2169,
+            "height": 3300,
+            "status": "ACCEPTABLE",
+            "checks": {
+                "blur": false,
+                "brightness": true,
+                "contrast": false,
+                "noise": true,
+                "shadow": true,
+                "resolution": true
+            }
+        },
+        {
+            "page_number": 8,
+            "blur": 6.5054315062670245,
+            "brightness": 188.96189023879347,
+            "contrast": 21.722815024713604,
+            "noise": 1.0154969692230225,
+            "shadow_percentage": 0.01348973607038123,
+            "width": 2170,
+            "height": 3300,
+            "status": "ACCEPTABLE",
+            "checks": {
+                "blur": false,
+                "brightness": true,
+                "contrast": false,
+                "noise": true,
+                "shadow": true,
+                "resolution": true
+            }
+        }
+    ]
+}

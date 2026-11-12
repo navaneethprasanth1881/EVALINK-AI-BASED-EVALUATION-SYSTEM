@@ -1,0 +1,57 @@
+{
+    "total_pages": 8,
+    "cover_page": 1,
+    "answer_pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "page_types": [
+        {
+            "page_number": 1,
+            "type": "COVER",
+            "is_cover": true
+        },
+        {
+            "page_number": 2,
+            "type": "ANSWER",
+            "is_cover": false
+        },
+        {
+            "page_number": 3,
+            "type": "ANSWER",
+            "is_cover": false
+        },
+        {
+            "page_number": 4,
+            "type": "ANSWER",
+            "is_cover": false
+        },
+        {
+            "page_number": 5,
+            "type": "ANSWER",
+            "is_cover": false
+        },
+        {
+            "page_number": 6,
+            "type": "ANSWER",
+            "is_cover": false
+        },
+        {
+            "page_number": 7,
+            "type": "ANSWER",
+            "is_cover": false
+        },
+        {
+            "page_number": 8,
+            "type": "ANSWER",
+            "is_cover": false
+        }
+    ],
+    "valid": true,
+    "errors": []
+}

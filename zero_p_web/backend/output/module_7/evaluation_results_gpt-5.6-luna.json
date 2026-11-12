@@ -1,0 +1,540 @@
+{
+  "model": "gpt-5.6-luna",
+  "total_max_marks": 60.0,
+  "total_awarded_marks": 25.0,
+  "percentage": 41.67,
+  "questions_evaluated": 7,
+  "questions_counted": 7,
+  "evaluations": [
+    {
+      "question_number": "2",
+      "max_marks": 3.0,
+      "awarded_marks": 3.0,
+      "criteria": [
+        {
+          "criterion_id": "Q2_C1",
+          "criterion_description": "Identification of local environmental/social concerns",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The answer identifies loss of land, property and habitat, as well as health impacts from air, water and noise pollution and harm to biodiversity.",
+          "reason": "These are relevant environmental and social concerns that public participation can identify.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q2_C2",
+          "criterion_description": "Opportunity for the public to express opinions and concerns",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The answer states that the public can \"express their opinion and tell their concerns.\"",
+          "reason": "This directly addresses the opportunity for public expression and involvement.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q2_C3",
+          "criterion_description": "Transparency, better decisions, mitigation or conflict reduction",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The answer states that the project can be carried out by \"meeting the needs of the people.\"",
+          "reason": "Considering public opinions and needs supports better project decisions and outcomes.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The answer fully explains the significance of public participation by identifying environmental and social concerns, allowing the public to express opinions, and supporting project decisions that address community needs.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.92
+    },
+    {
+      "question_number": "3",
+      "max_marks": 3.0,
+      "awarded_marks": 2.0,
+      "criteria": [
+        {
+          "criterion_id": "Q3_C1",
+          "criterion_description": "Correct definition of noise pollution",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "“Noise pollution is a type of pollution that occurs through noise” and “excessive noises” can affect the ears and ecosystem.",
+          "reason": "The answer identifies noise pollution as pollution caused by excessive noise and explains harmful effects on living beings and the ecosystem.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q3_C2",
+          "criterion_description": "Any two valid sources (traffic, aircraft, machinery, construction, loudspeakers, etc.)",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "“noise of horns of vehicles,” “machinery noises,” and “noise of vehicles.”",
+          "reason": "At least two distinct valid sources are listed: vehicle horns/traffic and machinery.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The definition is correct and multiple valid sources of noise pollution are listed.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.91
+    },
+    {
+      "question_number": "4",
+      "max_marks": 3.0,
+      "awarded_marks": 1.75,
+      "criteria": [
+        {
+          "criterion_id": "Q4_C1",
+          "criterion_description": "Impact prediction: estimating likely environmental changes caused by a project",
+          "max_marks": 1.5,
+          "awarded_marks": 0.75,
+          "status": "partial",
+          "evidence": "Impact prediction refers to the process of identifying the severity or extent of the impact and understanding the severity.",
+          "reason": "The answer identifies assessment of the severity or extent of impacts, but it does not clearly state that impact prediction estimates likely environmental changes caused by a project.",
+          "missing_concepts": [
+            "Explicit estimation or forecasting of likely environmental changes",
+            "Clear reference to changes caused by a project"
+          ]
+        },
+        {
+          "criterion_id": "Q4_C2",
+          "criterion_description": "",
+          "max_marks": 1.5,
+          "awarded_marks": 1.0,
+          "status": "partial",
+          "evidence": "Socio economic impact refers to the impact that causes harm to the social and economic part, which includes society and economics.",
+          "reason": "The answer correctly connects socio-economic impacts with social and economic aspects, but it restricts them to harmful impacts and provides an unclear description of the affected groups.",
+          "missing_concepts": [
+            "Recognition that socio-economic impacts may be positive or negative, not only harmful",
+            "Clearer definition of effects on communities and economic conditions"
+          ]
+        }
+      ],
+      "overall_feedback": "The answer demonstrates partial understanding of both terms. Impact prediction should explicitly refer to forecasting environmental changes from a project, while socio-economic impacts should clearly cover positive and negative effects on social and economic conditions.",
+      "source_pages": [
+        3
+      ],
+      "ocr_confidence": 0.865
+    },
+    {
+      "question_number": "5",
+      "max_marks": 3.0,
+      "awarded_marks": 1.5,
+      "criteria": [
+        {
+          "criterion_id": "Q5_C1",
+          "criterion_description": "First valid water impact with relevant mitigation",
+          "max_marks": 1.0,
+          "awarded_marks": 0.5,
+          "status": "partial",
+          "evidence": "The answer identifies that chemicals from degrading waste can dissolve into underground water and cause health issues. It mentions “proper waste management plans,” but does not provide a specific mitigation such as a liner or leachate collection and treatment.",
+          "reason": "The groundwater contamination impact is valid, but the mitigation is vague and not sufficiently specific.",
+          "missing_concepts": [
+            "Specific groundwater protection measures such as landfill lining, leachate collection, or leachate treatment"
+          ]
+        },
+        {
+          "criterion_id": "Q5_C2",
+          "criterion_description": "Second distinct water impact with relevant mitigation",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The answer explains that chemicals from waste may dissolve in rivers, ponds, and lakes, causing pollution and health issues. It suggests avoiding disposal near water bodies and using waste bins and waste management plans.",
+          "reason": "A distinct surface-water pollution impact and a relevant mitigation measure are provided.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q5_C3",
+          "criterion_description": "Additional technical detail (liner, leachate treatment, drainage, monitoring, etc.)",
+          "max_marks": 1.0,
+          "awarded_marks": 0.0,
+          "status": "not_met",
+          "evidence": "No specific technical detail such as liners, leachate treatment, drainage systems, or water-quality monitoring is provided.",
+          "reason": "The answer gives general waste-management advice but does not demonstrate the required additional technical detail.",
+          "missing_concepts": [
+            "Liner systems",
+            "Leachate treatment",
+            "Drainage or collection systems",
+            "Water-quality monitoring"
+          ]
+        }
+      ],
+      "overall_feedback": "The answer identifies two valid water impacts and gives a relevant general mitigation for surface-water pollution. The groundwater mitigation is vague, and no additional technical measures such as liners, leachate treatment, drainage, or monitoring are included.",
+      "source_pages": [
+        3,
+        4
+      ],
+      "ocr_confidence": 0.705
+    },
+    {
+      "question_number": "6",
+      "max_marks": 3.0,
+      "awarded_marks": 3.0,
+      "criteria": [
+        {
+          "criterion_id": "Q6-any-three-impacts",
+          "criterion_description": "Identify any three valid impacts of a quarry mining project.",
+          "max_marks": 3.0,
+          "awarded_marks": 3.0,
+          "status": "full",
+          "evidence": "The student identifies noise pollution from blasting, drilling and machinery; air pollution from dust generated during drilling and blasting; and loss of plantation due to removal of plants and trees.",
+          "reason": "Three distinct and valid impacts are clearly stated. The additional point about underground water being affected is not needed because the question requires only three impacts.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The answer correctly provides three distinct impacts of quarry mining and earns full marks.",
+      "source_pages": [
+        4,
+        5
+      ],
+      "ocr_confidence": 0.816
+    },
+    {
+      "question_number": "7",
+      "max_marks": 14.0,
+      "awarded_marks": 6.0,
+      "criteria": [
+        {
+          "criterion_id": "Q7a_C1",
+          "criterion_description": "Definition/purpose of EIA",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "EIA helps to identify the impact of the environment.",
+          "reason": "States the basic purpose of EIA as identifying environmental impacts.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q7a_C2",
+          "criterion_description": "Early identification of impacts",
+          "max_marks": 1.0,
+          "awarded_marks": 0.5,
+          "status": "partial",
+          "evidence": "Helps to identify impact and take precautions.",
+          "reason": "Identifies impacts, but does not clearly state that this occurs early in the project process.",
+          "missing_concepts": [
+            "Explicit early identification before project implementation"
+          ]
+        },
+        {
+          "criterion_id": "Q7a_C3",
+          "criterion_description": "Informed decision-making",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Helps to make better plan or decision on a project.",
+          "reason": "Clearly links EIA with better project planning and decision-making.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q7a_C4",
+          "criterion_description": "Analysis of alternatives",
+          "max_marks": 1.0,
+          "awarded_marks": 0.5,
+          "status": "partial",
+          "evidence": "Helps to identify the impact and redesign the project.",
+          "reason": "Project redesign suggests consideration of a different project approach, but systematic analysis of alternatives is not clearly stated.",
+          "missing_concepts": [
+            "Explicit comparison or analysis of alternative project designs, sites, technologies, or actions"
+          ]
+        },
+        {
+          "criterion_id": "Q7a_C5",
+          "criterion_description": "Mitigation planning",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Helps to take correct mitigation measures.",
+          "reason": "Directly identifies the role of EIA in selecting appropriate mitigation measures.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q7a_C6",
+          "criterion_description": "Legal compliance",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Promote the compliance with environmental laws and rules.",
+          "reason": "Explicitly states that EIA promotes compliance with environmental requirements.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q7a_C7",
+          "criterion_description": "Public participation",
+          "max_marks": 1.0,
+          "awarded_marks": 0.0,
+          "status": "not_met",
+          "evidence": "",
+          "reason": "The answer does not mention public consultation, stakeholder involvement, or participation.",
+          "missing_concepts": [
+            "Public consultation or stakeholder participation in the EIA process"
+          ]
+        },
+        {
+          "criterion_id": "Q7a_C8",
+          "criterion_description": "Resource conservation / sustainable development",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "It helps to provide sustainable development. Protects the plants and animals. Protects the biodiversity and ecosystem.",
+          "reason": "Directly addresses sustainable development and protection of ecological resources.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q7a_C9",
+          "criterion_description": "Monitoring and accountability",
+          "max_marks": 1.0,
+          "awarded_marks": 0.0,
+          "status": "not_met",
+          "evidence": "",
+          "reason": "The answer does not mention monitoring project impacts, compliance, or accountability after assessment.",
+          "missing_concepts": [
+            "Monitoring environmental performance and ensuring accountability during or after project implementation"
+          ]
+        }
+      ],
+      "sub_question_evaluations": [
+        {
+          "question_number": "7a",
+          "max_marks": 9.0,
+          "awarded_marks": 6.0,
+          "criteria": [
+            {
+              "criterion_id": "Q7a_C1",
+              "criterion_description": "Definition/purpose of EIA",
+              "max_marks": 1.0,
+              "awarded_marks": 1.0,
+              "status": "full",
+              "evidence": "EIA helps to identify the impact of the environment.",
+              "reason": "States the basic purpose of EIA as identifying environmental impacts.",
+              "missing_concepts": []
+            },
+            {
+              "criterion_id": "Q7a_C2",
+              "criterion_description": "Early identification of impacts",
+              "max_marks": 1.0,
+              "awarded_marks": 0.5,
+              "status": "partial",
+              "evidence": "Helps to identify impact and take precautions.",
+              "reason": "Identifies impacts, but does not clearly state that this occurs early in the project process.",
+              "missing_concepts": [
+                "Explicit early identification before project implementation"
+              ]
+            },
+            {
+              "criterion_id": "Q7a_C3",
+              "criterion_description": "Informed decision-making",
+              "max_marks": 1.0,
+              "awarded_marks": 1.0,
+              "status": "full",
+              "evidence": "Helps to make better plan or decision on a project.",
+              "reason": "Clearly links EIA with better project planning and decision-making.",
+              "missing_concepts": []
+            },
+            {
+              "criterion_id": "Q7a_C4",
+              "criterion_description": "Analysis of alternatives",
+              "max_marks": 1.0,
+              "awarded_marks": 0.5,
+              "status": "partial",
+              "evidence": "Helps to identify the impact and redesign the project.",
+              "reason": "Project redesign suggests consideration of a different project approach, but systematic analysis of alternatives is not clearly stated.",
+              "missing_concepts": [
+                "Explicit comparison or analysis of alternative project designs, sites, technologies, or actions"
+              ]
+            },
+            {
+              "criterion_id": "Q7a_C5",
+              "criterion_description": "Mitigation planning",
+              "max_marks": 1.0,
+              "awarded_marks": 1.0,
+              "status": "full",
+              "evidence": "Helps to take correct mitigation measures.",
+              "reason": "Directly identifies the role of EIA in selecting appropriate mitigation measures.",
+              "missing_concepts": []
+            },
+            {
+              "criterion_id": "Q7a_C6",
+              "criterion_description": "Legal compliance",
+              "max_marks": 1.0,
+              "awarded_marks": 1.0,
+              "status": "full",
+              "evidence": "Promote the compliance with environmental laws and rules.",
+              "reason": "Explicitly states that EIA promotes compliance with environmental requirements.",
+              "missing_concepts": []
+            },
+            {
+              "criterion_id": "Q7a_C7",
+              "criterion_description": "Public participation",
+              "max_marks": 1.0,
+              "awarded_marks": 0.0,
+              "status": "not_met",
+              "evidence": "",
+              "reason": "The answer does not mention public consultation, stakeholder involvement, or participation.",
+              "missing_concepts": [
+                "Public consultation or stakeholder participation in the EIA process"
+              ]
+            },
+            {
+              "criterion_id": "Q7a_C8",
+              "criterion_description": "Resource conservation / sustainable development",
+              "max_marks": 1.0,
+              "awarded_marks": 1.0,
+              "status": "full",
+              "evidence": "It helps to provide sustainable development. Protects the plants and animals. Protects the biodiversity and ecosystem.",
+              "reason": "Directly addresses sustainable development and protection of ecological resources.",
+              "missing_concepts": []
+            },
+            {
+              "criterion_id": "Q7a_C9",
+              "criterion_description": "Monitoring and accountability",
+              "max_marks": 1.0,
+              "awarded_marks": 0.0,
+              "status": "not_met",
+              "evidence": "",
+              "reason": "The answer does not mention monitoring project impacts, compliance, or accountability after assessment.",
+              "missing_concepts": [
+                "Monitoring environmental performance and ensuring accountability during or after project implementation"
+              ]
+            }
+          ],
+          "overall_feedback": "The answer covers the purpose of EIA, decision-making, mitigation, legal compliance, and sustainable development. It receives partial credit for impact identification and project redesign, but does not clearly address public participation or monitoring and accountability.",
+          "source_pages": [
+            8
+          ],
+          "ocr_confidence": 0.9389
+        }
+      ],
+      "overall_feedback": "The answer covers the purpose of EIA, decision-making, mitigation, legal compliance, and sustainable development. It receives partial credit for impact identification and project redesign, but does not clearly address public participation or monitoring and accountability.",
+      "source_pages": [
+        8
+      ],
+      "ocr_confidence": 0.9389
+    },
+    {
+      "question_number": "11",
+      "max_marks": 14.0,
+      "awarded_marks": 7.75,
+      "criteria": [
+        {
+          "criterion_id": "Q11_C1",
+          "criterion_description": "Project description and objectives",
+          "max_marks": 2.0,
+          "awarded_marks": 1.0,
+          "status": "partial",
+          "evidence": "The answer identifies the project as the current NH66 widening project in Kerala and lists objectives such as easier transportation, reduced travel time, and traffic reduction.",
+          "reason": "The project is identified and some objectives are stated, but there is no detailed description of the highway section, widening scope, location, or project components.",
+          "missing_concepts": [
+            "Specific project location or highway section",
+            "Existing and proposed road characteristics",
+            "Detailed widening scope and project components"
+          ]
+        },
+        {
+          "criterion_id": "Q11_C2",
+          "criterion_description": "Baseline environmental conditions",
+          "max_marks": 2.0,
+          "awarded_marks": 0.75,
+          "status": "partial",
+          "evidence": "The answer states that air, water, noise, land, and other environmental data should be collected to understand the current status.",
+          "reason": "Relevant baseline parameters are mentioned, but no actual baseline conditions of the NH66 project area are provided.",
+          "missing_concepts": [
+            "Existing air quality conditions",
+            "Water resources and water quality",
+            "Existing noise levels",
+            "Land use, ecology, vegetation, and settlement conditions"
+          ]
+        },
+        {
+          "criterion_id": "Q11_C3",
+          "criterion_description": "Construction and operational impacts",
+          "max_marks": 3.0,
+          "awarded_marks": 1.75,
+          "status": "partial",
+          "evidence": "The answer mentions construction-related air pollution and respiratory problems, tree and plant removal, habitat loss, and land loss. It also identifies operational benefits such as traffic reduction, reduced air pollution, reduced noise, and easier transportation.",
+          "reason": "Both construction and operational impacts are identified, but they are presented generally without detailed treatment of road-widening impacts such as dust, noise, traffic obstruction, drainage changes, erosion, construction waste, accident risks, and induced traffic.",
+          "missing_concepts": [
+            "Detailed construction-phase impacts",
+            "Drainage, erosion, waste, and traffic-management impacts",
+            "Detailed operational noise, air-quality, safety, and induced-traffic impacts"
+          ]
+        },
+        {
+          "criterion_id": "Q11_C4",
+          "criterion_description": "Social impacts and land acquisition",
+          "max_marks": 2.0,
+          "awarded_marks": 1.0,
+          "status": "partial",
+          "evidence": "The answer mentions loss of land, loss of human habitats, and relocation or rehabilitation of affected people.",
+          "reason": "Land acquisition and displacement are recognized, but the answer does not explain affected households, livelihoods, compensation, resettlement issues, access to properties, or impacts on local communities.",
+          "missing_concepts": [
+            "Extent and consequences of land acquisition",
+            "Impacts on livelihoods, homes, businesses, and community facilities",
+            "Compensation and resettlement procedures"
+          ]
+        },
+        {
+          "criterion_id": "Q11_C5",
+          "criterion_description": "Mitigation measures",
+          "max_marks": 2.0,
+          "awarded_marks": 1.25,
+          "status": "partial",
+          "evidence": "Suggested measures include planting trees to compensate for tree cutting, relocating or rehabilitating affected people, and avoiding air pollution during construction.",
+          "reason": "Some relevant mitigation measures are given, but they are limited and lack specific measures for dust, noise, water pollution, soil erosion, traffic safety, drainage, waste, and biodiversity protection.",
+          "missing_concepts": [
+            "Dust suppression and vehicle/emission controls",
+            "Noise control and restricted construction timing",
+            "Drainage, erosion, water-quality, and construction-waste controls",
+            "Traffic safety and biodiversity protection measures"
+          ]
+        },
+        {
+          "criterion_id": "Q11_C6",
+          "criterion_description": "Environmental Management Plan and monitoring",
+          "max_marks": 2.0,
+          "awarded_marks": 1.5,
+          "status": "partial",
+          "evidence": "The answer proposes continuous monitoring until project completion, recording and updating changes, ensuring worker and environmental safety, preparing an EIA report, and complying with environmental laws.",
+          "reason": "Monitoring, compliance, and safety are addressed, but an organized Environmental Management Plan with responsibilities, monitoring parameters, frequency, reporting, and corrective actions is not presented.",
+          "missing_concepts": [
+            "Structured Environmental Management Plan",
+            "Specific monitoring parameters and frequency",
+            "Institutional responsibilities, reporting, and corrective actions"
+          ]
+        },
+        {
+          "criterion_id": "Q11_C7",
+          "criterion_description": "Public participation and conclusion",
+          "max_marks": 1.0,
+          "awarded_marks": 0.5,
+          "status": "partial",
+          "evidence": "The answer states that the public should be consulted, their concerns understood, and measures taken accordingly.",
+          "reason": "Public participation is mentioned, but there is no specific discussion of consultation or public hearing for the NH66 project and no concluding evaluation of the project's overall environmental acceptability.",
+          "missing_concepts": [
+            "Specific public consultation or public hearing process",
+            "Conclusion balancing benefits, impacts, and mitigation adequacy"
+          ]
+        }
+      ],
+      "overall_feedback": "The answer identifies the NH66 widening project and covers most required EIA headings at a general level. However, it lacks case-specific baseline data, detailed construction and operational impacts, specific social and land-acquisition issues, a structured Environmental Management Plan, and a clear conclusion. More Kerala- and NH66-specific details are needed for a high-mark answer.",
+      "source_pages": [
+        5,
+        6,
+        7
+      ],
+      "ocr_confidence": 0.8636
+    }
+  ],
+  "counted_questions": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "11"
+  ],
+  "or_questions_not_counted": []
+}

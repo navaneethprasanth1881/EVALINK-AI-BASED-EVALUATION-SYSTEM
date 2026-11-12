@@ -1,0 +1,27 @@
+{
+    "total_pages": 3,
+    "cover_page": 1,
+    "answer_pages": [
+        2,
+        3
+    ],
+    "page_types": [
+        {
+            "page_number": 1,
+            "type": "COVER",
+            "is_cover": true
+        },
+        {
+            "page_number": 2,
+            "type": "ANSWER",
+            "is_cover": false
+        },
+        {
+            "page_number": 3,
+            "type": "ANSWER",
+            "is_cover": false
+        }
+    ],
+    "valid": true,
+    "errors": []
+}

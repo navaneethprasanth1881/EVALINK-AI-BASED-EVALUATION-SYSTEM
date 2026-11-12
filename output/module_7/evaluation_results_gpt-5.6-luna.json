@@ -1,0 +1,1031 @@
+{
+  "model": "gpt-5.6-luna",
+  "total_max_marks": 60.0,
+  "total_awarded_marks": 56.5,
+  "percentage": 94.17,
+  "questions_evaluated": 16,
+  "questions_counted": 12,
+  "evaluations": [
+    {
+      "question_number": "1",
+      "max_marks": 3.0,
+      "awarded_marks": 3.0,
+      "criteria": [
+        {
+          "criterion_id": "Q1_C1",
+          "criterion_description": "● Definition of MAC",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "A MAC (Media Access Control) address is a unique hardware address assigned to a Network Interface Card (NIC).",
+          "reason": "Correctly defines a MAC address as a unique hardware address assigned to a NIC.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q1_C2",
+          "criterion_description": "● Purpose of a MAC address in a NIC",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "It is used to identify a device on a local network.",
+          "reason": "Correctly explains that the MAC address identifies the device on the local network.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q1_C3",
+          "criterion_description": "● Role in data link layer / frame delivery",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "It enables data frames to be delivered to the correct device.",
+          "reason": "Correctly describes the role of the MAC address in delivering data frames to the intended device.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The answer correctly defines a MAC address, explains its identification purpose, and describes its role in local data-frame delivery.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "2",
+      "max_marks": 3.0,
+      "awarded_marks": 3.0,
+      "criteria": [
+        {
+          "criterion_id": "Q2_C1",
+          "criterion_description": "● Definition",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Firmware is software permanently or semi-permanently stored in non-volatile memory.",
+          "reason": "Correctly defines firmware as software stored in non-volatile memory.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q2_C2",
+          "criterion_description": "● Function",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "It provides low-level instructions that control and initialize hardware devices.",
+          "reason": "Correctly explains the function of firmware in controlling and initializing hardware.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q2_C3",
+          "criterion_description": "● Storage: ROM / EEPROM / Flash",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Such as ROM, EEPROM or flash memory. Firmware is typically stored in the device's ROM or flash memory.",
+          "reason": "Correctly identifies ROM, EEPROM, and flash memory as typical storage locations.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The answer correctly defines firmware, explains its function, and identifies appropriate non-volatile storage locations. Full marks awarded.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "3",
+      "max_marks": 3.0,
+      "awarded_marks": 1.5,
+      "criteria": [
+        {
+          "criterion_id": "Q3_C1",
+          "criterion_description": "● Correct identification of instructions",
+          "max_marks": 2.0,
+          "awarded_marks": 1.0,
+          "status": "partial",
+          "evidence": "The student identifies LDA and STO as data movement instructions.",
+          "reason": "LDA and STO are correctly identified, but the answer does not include the input/output data movement instructions INP and OUT.",
+          "missing_concepts": [
+            "INP",
+            "OUT"
+          ]
+        },
+        {
+          "criterion_id": "Q3_C2",
+          "criterion_description": "memory/accumulator/I-O)",
+          "max_marks": 1.0,
+          "awarded_marks": 0.5,
+          "status": "partial",
+          "evidence": "The student explains that data is transferred between memory and the accumulator.",
+          "reason": "The memory and accumulator relationship is correctly described, but input/output movement is not addressed.",
+          "missing_concepts": [
+            "Transfer involving input/output"
+          ]
+        }
+      ],
+      "overall_feedback": "The answer correctly identifies LDA and STO and explains their movement between memory and the accumulator, but it omits INP and OUT and does not cover input/output data movement.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "4",
+      "max_marks": 3.0,
+      "awarded_marks": 3.0,
+      "criteria": [
+        {
+          "criterion_id": "Q4_C1",
+          "criterion_description": "● Binary = 2",
+          "max_marks": 0.5,
+          "awarded_marks": 0.5,
+          "status": "full",
+          "evidence": "Binary: Base 2",
+          "reason": "Correctly identifies the base of the binary number system as 2.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q4_C2",
+          "criterion_description": "● Decimal = 10",
+          "max_marks": 0.5,
+          "awarded_marks": 0.5,
+          "status": "full",
+          "evidence": "Decimal: Base 10",
+          "reason": "Correctly identifies the base of the decimal number system as 10.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q4_C3",
+          "criterion_description": "● Octal = 8",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Octal: Base 8",
+          "reason": "Correctly identifies the base of the octal number system as 8.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q4_C4",
+          "criterion_description": "● Hexadecimal = 16",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Hexadecimal: Base 16",
+          "reason": "Correctly identifies the base of the hexadecimal number system as 16.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "All four number system bases are correctly identified. Full marks awarded.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "5",
+      "max_marks": 3.0,
+      "awarded_marks": 3.0,
+      "criteria": [
+        {
+          "criterion_id": "Q5_C1",
+          "criterion_description": "● Purpose: List directory contents",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The 'ls' command in Linux is used to list files and directories in the current directory.",
+          "reason": "Correctly states that the command lists directory contents.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q5_C2",
+          "criterion_description": "● Any two options with meaning",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "-l: Displays detailed information such as permissions, owner, size and modification time; -a: Displays all files, including hidden files whose names begin with a dot.",
+          "reason": "Provides two valid options and accurately explains the meaning of each.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The answer correctly explains the purpose of 'ls' and provides two valid options with their meanings.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "6",
+      "max_marks": 3.0,
+      "awarded_marks": 3.0,
+      "criteria": [
+        {
+          "criterion_id": "Q6_C1",
+          "criterion_description": "● Definition",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "DHCP (Dynamic Host Configuration Protocol) is a network protocol that automatically provides devices with IP addresses and other network configuration information such as subnet mask, default gateway and DNS server addresses.",
+          "reason": "Correctly defines DHCP and describes the configuration information it provides.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q6_C2",
+          "criterion_description": "● Importance (any two points)",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "It simplifies network administration, prevents address conflicts and allows devices to obtain valid network settings automatically.",
+          "reason": "Provides more than the required two valid points explaining DHCP's importance.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The answer correctly defines DHCP and gives multiple valid reasons for its importance in networking.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "7",
+      "max_marks": 3.0,
+      "awarded_marks": 3.0,
+      "criteria": [
+        {
+          "criterion_id": "Q7_C1",
+          "criterion_description": "● Any three valid elements → 3 ×",
+          "max_marks": 3.0,
+          "awarded_marks": 3.0,
+          "status": "full",
+          "evidence": "The answer identifies clear and relevant content, proper organization using headings and paragraphs, and simple and readable language. It also provides additional valid elements such as multimedia use, consistent formatting, and accessibility.",
+          "reason": "At least three distinct valid elements of effective web content creation are clearly demonstrated.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The answer provides more than the three required valid elements and fully satisfies the criterion.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.97
+    },
+    {
+      "question_number": "8",
+      "max_marks": 3.0,
+      "awarded_marks": 3.0,
+      "criteria": [
+        {
+          "criterion_id": "Q8_C1",
+          "criterion_description": "● Inline CSS",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The answer identifies Inline CSS and states that CSS is written directly inside an HTML element using the style attribute.",
+          "reason": "Correctly describes the inline CSS method.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q8_C2",
+          "criterion_description": "● Internal CSS",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The answer identifies Internal CSS and states that CSS rules are written inside a <style> element in the <head> section.",
+          "reason": "Correctly describes the internal CSS method.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q8_C3",
+          "criterion_description": "● External CSS",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The answer identifies External CSS and states that CSS rules are written in a separate .css file and linked using the <link> element.",
+          "reason": "Correctly describes the external CSS method.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The answer correctly identifies and explains all three ways to apply CSS: inline, internal, and external CSS.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "9",
+      "max_marks": 9.0,
+      "awarded_marks": 7.0,
+      "criteria": [
+        {
+          "criterion_id": "Q9a_C1",
+          "criterion_description": "Definition of device management",
+          "max_marks": 1.0,
+          "awarded_marks": 0.5,
+          "status": "partial",
+          "evidence": "The answer identifies device management functions such as allocation, control, scheduling, buffering, and error handling.",
+          "reason": "The functions are described, but there is no clear, explicit definition of device management as an OS function responsible for managing hardware devices and I/O.",
+          "missing_concepts": [
+            "Explicit definition of device management"
+          ]
+        },
+        {
+          "criterion_id": "Q9a_C2",
+          "criterion_description": "Device allocation & deallocation",
+          "max_marks": 1.0,
+          "awarded_marks": 0.5,
+          "status": "partial",
+          "evidence": "The OS allocates hardware devices to processes that request them.",
+          "reason": "Device allocation is correctly explained, but device deallocation or releasing devices after use is not mentioned.",
+          "missing_concepts": [
+            "Device deallocation or release after use"
+          ]
+        },
+        {
+          "criterion_id": "Q9a_C3",
+          "criterion_description": "I/O scheduling",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "It schedules I/O requests to improve efficiency and reduce waiting time.",
+          "reason": "I/O scheduling and its purpose are correctly stated.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q9a_C4",
+          "criterion_description": "Buffering, caching, spooling",
+          "max_marks": 1.0,
+          "awarded_marks": 0.5,
+          "status": "partial",
+          "evidence": "Buffering and caching temporarily store data during I/O operations to handle speed differences between the CPU and devices.",
+          "reason": "Buffering and caching are correctly explained, but spooling is not mentioned.",
+          "missing_concepts": [
+            "Spooling"
+          ]
+        },
+        {
+          "criterion_id": "Q9a_C5",
+          "criterion_description": "Device drivers & interrupt handling",
+          "max_marks": 1.0,
+          "awarded_marks": 0.5,
+          "status": "partial",
+          "evidence": "The OS controls devices through device drivers and I/O controllers.",
+          "reason": "Device drivers are identified, but interrupt handling is not addressed.",
+          "missing_concepts": [
+            "Interrupt handling"
+          ]
+        },
+        {
+          "criterion_id": "Q9a_C6",
+          "criterion_description": "Definition of I/O controller",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "An I/O controller is hardware that manages communication between the CPU/memory and an input or output device.",
+          "reason": "The I/O controller is accurately defined as hardware managing communication between the system and an I/O device.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q9a_C7",
+          "criterion_description": "Role (interface between CPU & devices)",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "It manages communication between the CPU/memory and an input or output device.",
+          "reason": "The controller's role as an interface between the CPU/memory and devices is clearly explained.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q9a_C8",
+          "criterion_description": "Working (data transfer, control signals)",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "It receives commands from the CPU, controls the connected device and transfers data between the device and main memory.",
+          "reason": "The answer correctly describes command reception, device control, and data transfer.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q9a_C9",
+          "criterion_description": "controller)",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Examples include disk controllers, USB controllers and network interface controllers.",
+          "reason": "The answer provides valid examples of I/O controllers, consistent with the controller-related requirement.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The answer demonstrates a good understanding of device management and I/O controllers. It correctly covers I/O scheduling, buffering, caching, device drivers, controller functions, and data transfer. Marks were lost for not explicitly defining device management, omitting device deallocation, omitting spooling, and omitting interrupt handling.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.97
+    },
+    {
+      "question_number": "10",
+      "max_marks": 9.0,
+      "awarded_marks": 8.0,
+      "criteria": [
+        {
+          "criterion_id": "Q10_C1",
+          "criterion_description": "● Components: platters, spindle, read/write head",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "The answer identifies magnetic platters, a spindle, and read/write heads, along with an actuator arm and controller.",
+          "reason": "All required HDD components are correctly stated.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q10_C2",
+          "criterion_description": "● Tracks, sectors explanation",
+          "max_marks": 1.0,
+          "awarded_marks": 0.5,
+          "status": "partial",
+          "evidence": "The answer states that the actuator moves the read/write head to the required track.",
+          "reason": "Tracks are mentioned in the working explanation, but sectors and the organization/function of tracks and sectors are not explained.",
+          "missing_concepts": [
+            "Explanation of sectors",
+            "How tracks and sectors organize data on the platter"
+          ]
+        },
+        {
+          "criterion_id": "Q10_C3",
+          "criterion_description": "movement)",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "The answer explains that the spindle rotates the platters and the actuator moves the read/write heads to the required track during reading and writing.",
+          "reason": "The relevant mechanical movement and HDD working process are clearly described.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q10_C4",
+          "criterion_description": "● Optical drive working (laser-based)",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The answer states that optical drives use a laser to read or write data on CDs, DVDs, and Blu-ray discs, detecting or modifying patterns on the disc surface.",
+          "reason": "Laser-based optical drive operation is correctly explained.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q10_C5",
+          "criterion_description": "● HDD vs Optical (speed, durability)",
+          "max_marks": 1.0,
+          "awarded_marks": 0.5,
+          "status": "partial",
+          "evidence": "The answer distinguishes HDDs as magnetic storage on rotating platters with mechanical heads and optical drives as laser-based removable media.",
+          "reason": "A basic HDD-versus-optical distinction is given, but speed and durability are not directly compared.",
+          "missing_concepts": [
+            "Direct comparison of HDD and optical-drive speed",
+            "Direct comparison of HDD and optical-media durability"
+          ]
+        },
+        {
+          "criterion_id": "Q10_C6",
+          "criterion_description": "● SSD vs Optical (no moving parts, faster)",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The answer states that SSDs use flash memory, have no moving parts, and are faster, while optical drives use laser technology.",
+          "reason": "The required SSD-versus-optical comparison points are demonstrated.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q10_C7",
+          "criterion_description": "● Any one comparison point (cost/capacity/use)",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The answer states that HDDs generally provide large capacity at lower cost and that optical drives are used for removable media and archival purposes.",
+          "reason": "The answer provides valid comparison points involving capacity, cost, and use.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The answer accurately covers HDD components and operation, optical-drive working, and SSD comparisons. Marks are reduced because tracks and sectors are not fully explained and HDD speed and durability are not directly compared with optical drives.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.97
+    },
+    {
+      "question_number": "11",
+      "max_marks": 9.0,
+      "awarded_marks": 9.0,
+      "criteria": [
+        {
+          "criterion_id": "Q11_C1",
+          "criterion_description": "● Correct conversion of each number",
+          "max_marks": 3.0,
+          "awarded_marks": 3.0,
+          "status": "full",
+          "evidence": "The student correctly expands and converts (11011.11)₂, (25.5)₈, and (16.6)₁₆ using positional weights.",
+          "reason": "All three number-system conversions are correct.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q11_C2",
+          "criterion_description": "● Correct decimal values",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student obtains 27.75₁₀, 21.625₁₀, and 22.375₁₀.",
+          "reason": "All decimal values are correct.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q11_C3",
+          "criterion_description": "● Correct ascending order",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student states 21.625 < 22.375 < 27.75 and gives (25.5)₈ < (16.6)₁₆ < (11011.11)₂.",
+          "reason": "The numbers are arranged correctly in ascending order.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q11_C4",
+          "criterion_description": "● Mistake identified (remainders not reversed)",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "The student identifies that the trainee kept the remainders in the same order obtained and states that this is incorrect for the integer part.",
+          "reason": "The specific mistake of not reversing the remainders is correctly identified.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q11_C5",
+          "criterion_description": "● Correct procedure explanation",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "The student correctly explains repeated division by the base, recording remainders, continuing until the quotient is zero, and reading the remainders from bottom to top. The fractional procedure is also correctly described using repeated multiplication.",
+          "reason": "The procedure for converting both integer and fractional parts is accurately explained.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The answer is fully correct. All conversions, decimal values, ordering, error identification, and conversion procedures are accurately presented.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "12",
+      "max_marks": 9.0,
+      "awarded_marks": 9.0,
+      "criteria": [
+        {
+          "criterion_id": "Q12_C1",
+          "criterion_description": "● Definition of instruction cycle",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The answer states that the CPU fetch-execute cycle consists of a sequence of steps, including fetching, decoding, and executing the instruction.",
+          "reason": "This provides an adequate definition of the instruction cycle.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q12_C2",
+          "criterion_description": "● Fetch step (PC → MAR → MDR → IR)",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "The answer states that the PC address is transferred to the MAR, memory is read into the MDR, and the instruction is transferred from the MDR to the IR.",
+          "reason": "All required fetch transfers are correctly described.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q12_C3",
+          "criterion_description": "● Decode step",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The answer states: “The Control Unit decodes the LOAD instruction and identifies the required memory address.”",
+          "reason": "The decode step is explicitly and correctly described.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q12_C4",
+          "criterion_description": "● Execute step (LOAD operation)",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "The answer explains that the effective address identifies the memory location, the data is read into the MDR, and the data in the MDR is transferred to the ACC.",
+          "reason": "This correctly describes execution of the LOAD operation.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q12_C5",
+          "criterion_description": "● Register involvement (PC, MAR, MDR, IR, ACC)",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "The answer explicitly identifies and describes the roles of the PC, MAR, MDR, IR, and ACC throughout the cycle.",
+          "reason": "All specified registers are involved correctly.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q12_C6",
+          "criterion_description": "● Diagram / sequence clarity",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The answer presents the process as a clear numbered sequence from fetching the instruction through completing the LOAD operation.",
+          "reason": "The ordered steps provide clear sequence representation even without a diagram.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The answer correctly and clearly explains the fetch-execute cycle for a LOAD instruction, including the required register transfers, decoding, memory data fetch, and loading into the accumulator.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.97
+    },
+    {
+      "question_number": "13",
+      "max_marks": 9.0,
+      "awarded_marks": 9.0,
+      "criteria": [
+        {
+          "criterion_id": "Q13_C1",
+          "criterion_description": "● Discovery",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The client broadcasts a DHCP Discover message to locate available DHCP servers.",
+          "reason": "Correctly explains the Discovery stage of the DHCP DORA process.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q13_C2",
+          "criterion_description": "● Offer",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "A DHCP server responds with a DHCP Offer containing a proposed IP address and network configuration.",
+          "reason": "Correctly explains the Offer stage.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q13_C3",
+          "criterion_description": "● Request",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The client broadcasts a DHCP Request indicating that it accepts the offered configuration.",
+          "reason": "Correctly explains the Request stage.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q13_C4",
+          "criterion_description": "● Acknowledgement",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The selected DHCP server sends a DHCP ACK message confirming the IP address lease and configuration.",
+          "reason": "Correctly explains the Acknowledgement stage.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q13_C5",
+          "criterion_description": "● Example explanation",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The laptop sends DHCP Discover, receives an offered address such as 192.168.1.10, requests it, and receives acknowledgement with subnet mask, gateway and DNS information.",
+          "reason": "Provides a clear and accurate example of the complete DORA process.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q13_C6",
+          "criterion_description": "● Any three issues",
+          "max_marks": 3.0,
+          "awarded_marks": 3.0,
+          "status": "full",
+          "evidence": "The answer identifies IP address conflict, DHCP server unavailability, and DHCP address pool exhaustion.",
+          "reason": "Three distinct valid DHCP issues are correctly identified.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q13_C7",
+          "criterion_description": "Solutions",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Solutions include configuring the DHCP server and address pools correctly, checking connectivity/server status/relay configuration, and increasing the pool or managing lease duration and unused leases.",
+          "reason": "Provides appropriate solutions for all three identified issues.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The answer accurately explains the DHCP DORA process, gives a relevant example, and identifies three common DHCP issues with appropriate solutions.",
+      "source_pages": [
+        3
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "14",
+      "max_marks": 9.0,
+      "awarded_marks": 9.0,
+      "criteria": [
+        {
+          "criterion_id": "Q14_C1",
+          "criterion_description": "● Explanation of types (bus, star, ring, mesh)",
+          "max_marks": 4.0,
+          "awarded_marks": 4.0,
+          "status": "full",
+          "evidence": "The answer discusses bus, star, ring, and mesh topologies, identifying key features such as the main cable in bus, the central switch or hub in star, the ring link structure, and multiple paths in mesh.",
+          "reason": "All four required topology types are addressed with accurate distinguishing characteristics.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q14_C2",
+          "criterion_description": "● Advantages",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "Advantages are provided for all required topologies, including low cost and simple installation for bus, easy management for star, reduced collisions for ring, and high reliability and fault tolerance for mesh.",
+          "reason": "The answer provides several correct advantages covering the required topology types.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q14_C3",
+          "criterion_description": "● Disadvantages",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "Disadvantages include main cable failure in bus, dependence on the central device in star, node or link failure in ring, and high cost and complexity in mesh.",
+          "reason": "The answer accurately explains relevant disadvantages for the required topologies.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q14_C4",
+          "criterion_description": "● Real-world applications",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Applications include older Ethernet and temporary networks for bus, modern LANs for star, legacy and specialized networks for ring, and WANs, backbone networks, and critical communication systems for mesh.",
+          "reason": "The answer gives appropriate real-world applications for all required topology types.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The answer fully addresses the required topology types, advantages, disadvantages, and real-world applications. The additional discussion of tree and hybrid topologies is relevant but not required.",
+      "source_pages": [
+        3
+      ],
+      "ocr_confidence": 0.97
+    },
+    {
+      "question_number": "15",
+      "max_marks": 9.0,
+      "awarded_marks": 7.5,
+      "criteria": [
+        {
+          "criterion_id": "Q15_C1",
+          "criterion_description": "● Background styling",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "body { background-color: gray; }",
+          "reason": "Correctly applies a gray background to the webpage.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q15_C2",
+          "criterion_description": "● Heading style",
+          "max_marks": 1.0,
+          "awarded_marks": 0.5,
+          "status": "partial",
+          "evidence": "h1 { text-align: center; }",
+          "reason": "The heading is centered, but no blue color is specified.",
+          "missing_concepts": [
+            "Blue heading color"
+          ]
+        },
+        {
+          "criterion_id": "Q15_C3",
+          "criterion_description": "● Font styling",
+          "max_marks": 1.0,
+          "awarded_marks": 0.0,
+          "status": "not_met",
+          "evidence": "",
+          "reason": "No font family, font size, or other readable font styling is demonstrated. Justifying paragraph text does not constitute font styling.",
+          "missing_concepts": [
+            "Readable font styling across the page"
+          ]
+        },
+        {
+          "criterion_id": "Q15_C4",
+          "criterion_description": "● Correct syntax",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The CSS rules use valid selector, property, value, and brace syntax.",
+          "reason": "The supplied CSS syntax is correct.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q15_C5",
+          "criterion_description": "● Overall structure",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The answer presents separate CSS rules for body, h1, and p, followed by explanations and an external stylesheet discussion.",
+          "reason": "The response is organized with an appropriate CSS structure and supporting explanation.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q15_C6",
+          "criterion_description": "● Reusability",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The same CSS file can be linked to multiple HTML pages.",
+          "reason": "Using an external stylesheet demonstrates reusability across pages.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q15_C7",
+          "criterion_description": "● Maintainability",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Changes made to the external stylesheet automatically affect all linked pages, and maintenance is easier.",
+          "reason": "Centralized styling improves maintainability and consistency.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q15_C8",
+          "criterion_description": "● Performance (caching)",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The stylesheet can be cached by the browser.",
+          "reason": "The answer correctly identifies browser caching as a performance benefit.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q15_C9",
+          "criterion_description": "● Separation of content & design",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The answer states that an external stylesheet is preferable for large multi-page websites and describes CSS being linked to HTML pages.",
+          "reason": "External CSS separates presentation from HTML content.",
+          "missing_concepts": []
+        },
+        {
+          "overall_feedback": "The answer correctly provides gray background styling, centered heading styling, valid CSS syntax, and explains the benefits of external stylesheets, including reusability, maintainability, caching, and separation of design from content. It loses marks because the heading is not made blue and no actual font styling is provided.",
+          "max_marks": 0.0,
+          "awarded_marks": 0.0
+        }
+      ],
+      "source_pages": [
+        3
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "16",
+      "max_marks": 9.0,
+      "awarded_marks": 8.0,
+      "criteria": [
+        {
+          "criterion_id": "Q16_C1",
+          "criterion_description": "Definition of FTP",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "FTP (File Transfer Protocol) is a network protocol used to transfer files between a client and a web server.",
+          "reason": "Provides a correct definition of FTP.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q16_C2",
+          "criterion_description": "File transfer function",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "It helps manage website content by allowing files such as HTML pages, CSS files, JavaScript files, images and other resources to be uploaded and downloaded.",
+          "reason": "Clearly explains FTP's file transfer function.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q16_C3",
+          "criterion_description": "Upload/download management",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Files can be uploaded, downloaded, renamed, moved and deleted on the server.",
+          "reason": "Describes management of uploads and downloads, along with related file operations.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q16_C4",
+          "criterion_description": "Directory management",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Locate the local folder containing the website files and the appropriate remote web directory on the server.",
+          "reason": "Demonstrates working with local and remote directories for file placement.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q16_C5",
+          "criterion_description": "Efficiency explanation",
+          "max_marks": 1.0,
+          "awarded_marks": 0.0,
+          "status": "not_met",
+          "evidence": "",
+          "reason": "The answer states that FTP is useful for publishing and maintaining website content but does not explain how or why it improves efficiency.",
+          "missing_concepts": [
+            "Explicit explanation of how FTP makes file management or website publishing more efficient"
+          ]
+        },
+        {
+          "criterion_id": "Q16_C6",
+          "criterion_description": "Connect to server",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Install and open an FTP client such as FileZilla. Connect to the web server using the provided FTP credentials.",
+          "reason": "Provides the required step for connecting the FTP client to the server.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q16_C7",
+          "criterion_description": "Authentication",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Obtain FTP credentials such as server/host address, username, password and port number from the hosting provider.",
+          "reason": "Identifies the credentials used for authentication.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q16_C8",
+          "criterion_description": "File transfer (upload)",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Upload the required HTML, CSS, JavaScript, image and other files to the remote directory.",
+          "reason": "Clearly describes uploading files to the server.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q16_C9",
+          "criterion_description": "Verification",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Verify that the files were transferred successfully and access the website through its URL to confirm that it works correctly.",
+          "reason": "Includes both transfer verification and checking the resulting website.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The answer correctly defines FTP, explains its file and directory management functions, and provides clear upload steps including connection, authentication, transfer and verification. It does not explicitly explain how FTP improves efficiency.",
+      "source_pages": [
+        3
+      ],
+      "ocr_confidence": 0.98
+    }
+  ],
+  "counted_questions": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "10",
+    "11",
+    "13",
+    "16"
+  ],
+  "or_questions_not_counted": [
+    {
+      "question_number": "9",
+      "max_marks": 9.0,
+      "awarded_marks": 7.0,
+      "reason": "Both questions in the OR group were answered. This question was not counted because the other answer received higher marks."
+    },
+    {
+      "question_number": "12",
+      "max_marks": 9.0,
+      "awarded_marks": 9.0,
+      "reason": "Both questions in the OR group were answered. This question was not counted because the other answer received higher marks."
+    },
+    {
+      "question_number": "14",
+      "max_marks": 9.0,
+      "awarded_marks": 9.0,
+      "reason": "Both questions in the OR group were answered. This question was not counted because the other answer received higher marks."
+    },
+    {
+      "question_number": "15",
+      "max_marks": 9.0,
+      "awarded_marks": 7.5,
+      "reason": "Both questions in the OR group were answered. This question was not counted because the other answer received higher marks."
+    }
+  ]
+}

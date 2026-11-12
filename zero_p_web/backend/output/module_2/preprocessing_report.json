@@ -1,0 +1,381 @@
+{
+    "total_pages": 8,
+    "pages": [
+        {
+            "page_number": 1,
+            "deskew": {
+                "deskew_enabled": true,
+                "detected_angle": 0.0,
+                "corrected": false
+            },
+            "denoise": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Fast Non Local Means",
+                    "h": 10,
+                    "template_window": 7,
+                    "search_window": 21
+                }
+            },
+            "contrast": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "CLAHE",
+                    "clip_limit": 2.0,
+                    "grid_size": [
+                        8,
+                        8
+                    ]
+                }
+            },
+            "shadow_removal": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Background Normalization",
+                    "blur_kernel": 21
+                }
+            },
+            "thresholding": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Adaptive Gaussian",
+                    "block_size": 21,
+                    "c": 10
+                }
+            }
+        },
+        {
+            "page_number": 2,
+            "deskew": {
+                "deskew_enabled": true,
+                "detected_angle": 0.0,
+                "corrected": false
+            },
+            "denoise": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Fast Non Local Means",
+                    "h": 10,
+                    "template_window": 7,
+                    "search_window": 21
+                }
+            },
+            "contrast": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "CLAHE",
+                    "clip_limit": 2.0,
+                    "grid_size": [
+                        8,
+                        8
+                    ]
+                }
+            },
+            "shadow_removal": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Background Normalization",
+                    "blur_kernel": 21
+                }
+            },
+            "thresholding": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Adaptive Gaussian",
+                    "block_size": 21,
+                    "c": 10
+                }
+            }
+        },
+        {
+            "page_number": 3,
+            "deskew": {
+                "deskew_enabled": true,
+                "detected_angle": 0.4310150146484375,
+                "corrected": true
+            },
+            "denoise": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Fast Non Local Means",
+                    "h": 10,
+                    "template_window": 7,
+                    "search_window": 21
+                }
+            },
+            "contrast": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "CLAHE",
+                    "clip_limit": 2.0,
+                    "grid_size": [
+                        8,
+                        8
+                    ]
+                }
+            },
+            "shadow_removal": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Background Normalization",
+                    "blur_kernel": 21
+                }
+            },
+            "thresholding": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Adaptive Gaussian",
+                    "block_size": 21,
+                    "c": 10
+                }
+            }
+        },
+        {
+            "page_number": 4,
+            "deskew": {
+                "deskew_enabled": true,
+                "detected_angle": 0.0,
+                "corrected": false
+            },
+            "denoise": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Fast Non Local Means",
+                    "h": 10,
+                    "template_window": 7,
+                    "search_window": 21
+                }
+            },
+            "contrast": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "CLAHE",
+                    "clip_limit": 2.0,
+                    "grid_size": [
+                        8,
+                        8
+                    ]
+                }
+            },
+            "shadow_removal": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Background Normalization",
+                    "blur_kernel": 21
+                }
+            },
+            "thresholding": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Adaptive Gaussian",
+                    "block_size": 21,
+                    "c": 10
+                }
+            }
+        },
+        {
+            "page_number": 5,
+            "deskew": {
+                "deskew_enabled": true,
+                "detected_angle": 0.0,
+                "corrected": false
+            },
+            "denoise": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Fast Non Local Means",
+                    "h": 10,
+                    "template_window": 7,
+                    "search_window": 21
+                }
+            },
+            "contrast": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "CLAHE",
+                    "clip_limit": 2.0,
+                    "grid_size": [
+                        8,
+                        8
+                    ]
+                }
+            },
+            "shadow_removal": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Background Normalization",
+                    "blur_kernel": 21
+                }
+            },
+            "thresholding": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Adaptive Gaussian",
+                    "block_size": 21,
+                    "c": 10
+                }
+            }
+        },
+        {
+            "page_number": 6,
+            "deskew": {
+                "deskew_enabled": true,
+                "detected_angle": 0.0,
+                "corrected": false
+            },
+            "denoise": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Fast Non Local Means",
+                    "h": 10,
+                    "template_window": 7,
+                    "search_window": 21
+                }
+            },
+            "contrast": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "CLAHE",
+                    "clip_limit": 2.0,
+                    "grid_size": [
+                        8,
+                        8
+                    ]
+                }
+            },
+            "shadow_removal": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Background Normalization",
+                    "blur_kernel": 21
+                }
+            },
+            "thresholding": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Adaptive Gaussian",
+                    "block_size": 21,
+                    "c": 10
+                }
+            }
+        },
+        {
+            "page_number": 7,
+            "deskew": {
+                "deskew_enabled": true,
+                "detected_angle": 0.0,
+                "corrected": false
+            },
+            "denoise": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Fast Non Local Means",
+                    "h": 10,
+                    "template_window": 7,
+                    "search_window": 21
+                }
+            },
+            "contrast": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "CLAHE",
+                    "clip_limit": 2.0,
+                    "grid_size": [
+                        8,
+                        8
+                    ]
+                }
+            },
+            "shadow_removal": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Background Normalization",
+                    "blur_kernel": 21
+                }
+            },
+            "thresholding": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Adaptive Gaussian",
+                    "block_size": 21,
+                    "c": 10
+                }
+            }
+        },
+        {
+            "page_number": 8,
+            "deskew": {
+                "deskew_enabled": true,
+                "detected_angle": 0.0,
+                "corrected": false
+            },
+            "denoise": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Fast Non Local Means",
+                    "h": 10,
+                    "template_window": 7,
+                    "search_window": 21
+                }
+            },
+            "contrast": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "CLAHE",
+                    "clip_limit": 2.0,
+                    "grid_size": [
+                        8,
+                        8
+                    ]
+                }
+            },
+            "shadow_removal": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Background Normalization",
+                    "blur_kernel": 21
+                }
+            },
+            "thresholding": {
+                "enabled": true,
+                "success": true,
+                "details": {
+                    "method": "Adaptive Gaussian",
+                    "block_size": 21,
+                    "c": 10
+                }
+            }
+        }
+    ]
+}

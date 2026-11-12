@@ -1,0 +1,11 @@
+{
+    "valid": true,
+    "error_count": 0,
+    "warning_count": 3,
+    "errors": [],
+    "warnings": [
+        "Q3: question marks=3.0, criterion total=2.0. Review schema; this may be intentional.",
+        "Q7: question marks=14.0, criterion total=9.0. Review schema; this may be intentional.",
+        "Q9: question marks=14.0, criterion total=11.0. Review schema; this may be intentional."
+    ]
+}

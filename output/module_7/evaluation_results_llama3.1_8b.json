@@ -1,0 +1,1034 @@
+{
+  "model": "llama3.1:8b",
+  "total_max_marks": 60.0,
+  "total_awarded_marks": 51.5,
+  "percentage": 85.83,
+  "questions_evaluated": 16,
+  "questions_counted": 12,
+  "evaluations": [
+    {
+      "question_number": "1",
+      "max_marks": 3.0,
+      "awarded_marks": 2.0,
+      "marking_explanation": "The student has demonstrated a good understanding of MAC addresses, but failed to explicitly mention its role in the data link layer or frame delivery.",
+      "criteria": [
+        {
+          "criterion_id": "Q1_C1",
+          "criterion_description": "● Definition of MAC",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student defines MAC as a unique hardware address assigned to a Network Interface Card (NIC).",
+          "reason": "The student has provided a clear definition of MAC, which is in line with the expected answer.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q1_C2",
+          "criterion_description": "● Purpose of a MAC address in a NIC",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student states that the MAC address is used to identify a device on a local network and enables data frames to be delivered to the correct device.",
+          "reason": "The student has correctly identified the purpose of a MAC address, which is in line with the expected answer.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q1_C3",
+          "criterion_description": "● Role in data link layer / frame delivery",
+          "max_marks": 1.0,
+          "awarded_marks": 0.0,
+          "status": "not_met",
+          "evidence": "The student does not mention the role of MAC in the data link layer or frame delivery.",
+          "reason": "The student has failed to address this criterion, which is a key aspect of MAC addresses.",
+          "missing_concepts": [
+            "Role in data link layer / frame delivery"
+          ]
+        }
+      ],
+      "overall_feedback": "The student has demonstrated a good understanding of MAC addresses, but could benefit from providing more detail on its role in the data link layer or frame delivery.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "2",
+      "max_marks": 3.0,
+      "awarded_marks": 3.0,
+      "marking_explanation": "The student has fully met all the criteria for this question. They have provided a clear definition of firmware, explained its function, and specified the typical storage locations.",
+      "criteria": [
+        {
+          "criterion_id": "Q2_C1",
+          "criterion_description": "● Definition",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Firmware is software permanently or semi-permanently stored in non-volatile memory such as ROM, EEPROM or flash memory.",
+          "reason": "The student has provided a clear definition of firmware, meeting the requirement for this criterion.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q2_C2",
+          "criterion_description": "● Function",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Firmware is software permanently or semi-permanently stored in non-volatile memory such as ROM, EEPROM or flash memory.",
+          "reason": "The student has explained that firmware provides low-level instructions that control and initialize hardware devices, meeting the requirement for this criterion.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q2_C3",
+          "criterion_description": "● Storage: ROM / EEPROM / Flash",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Firmware is typically stored in the device's ROM or flash memory.",
+          "reason": "The student has specified that firmware is typically stored in the device's ROM or flash memory, meeting the requirement for this criterion.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The student has demonstrated a thorough understanding of firmware, including its definition, function, and typical storage locations. Well done!",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "3",
+      "max_marks": 3.0,
+      "awarded_marks": 2.0,
+      "marking_explanation": "The student correctly identified LDA (Load) and STO (Store) as data movement instructions. However, they did not mention the I/O instructions, thus missing a critical part of the criteria.",
+      "criteria": [
+        {
+          "criterion_id": "Q3_C1",
+          "criterion_description": "Correct identification of instructions",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "The student mentioned LDA (Load) and STO (Store) as data movement instructions.",
+          "reason": "Correct identification of instructions",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q3_C2",
+          "criterion_description": "memory/accumulator/I-O)",
+          "max_marks": 1.0,
+          "awarded_marks": 0.0,
+          "status": "not_met",
+          "evidence": "The student did not mention I/O instructions.",
+          "reason": "Missing I/O instructions",
+          "missing_concepts": [
+            "I/O instructions"
+          ]
+        }
+      ],
+      "overall_feedback": "The student demonstrated good understanding of data movement instructions but missed an important aspect of the question.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "4",
+      "max_marks": 3.0,
+      "awarded_marks": 3.0,
+      "marking_explanation": "The student provided accurate information about the bases of Binary, Decimal, Octal, and Hexadecimal number systems.",
+      "criteria": [
+        {
+          "criterion_id": "Q4_C1",
+          "criterion_description": "● Binary = 2",
+          "max_marks": 0.5,
+          "awarded_marks": 0.5,
+          "status": "full",
+          "evidence": "The student stated Binary: Base 2, uses digits 0 and 1.",
+          "reason": "The student provided the correct base for the Binary number system.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q4_C2",
+          "criterion_description": "● Decimal = 10",
+          "max_marks": 0.5,
+          "awarded_marks": 0.5,
+          "status": "full",
+          "evidence": "The student stated Decimal: Base 10, uses digits 0 to 9.",
+          "reason": "The student provided the correct base for the Decimal number system.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q4_C3",
+          "criterion_description": "● Octal = 8",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student stated Octal: Base 8, uses digits 0 to 7.",
+          "reason": "The student provided the correct base for the Octal number system.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q4_C4",
+          "criterion_description": "● Hexadecimal = 16",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student stated Hexadecimal: Base 16, uses digits 0 to 9 and A to F.",
+          "reason": "The student provided the correct base for the Hexadecimal number system.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The student demonstrated a clear understanding of the bases of common number systems.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "5",
+      "max_marks": 3.0,
+      "awarded_marks": 3.0,
+      "marking_explanation": "The student correctly identifies the purpose of the 'ls' command in Linux and mentions two options used with it, fulfilling both criteria.",
+      "criteria": [
+        {
+          "criterion_id": "Q5_C1",
+          "criterion_description": "● Purpose: List directory contents",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The 'ls' command in Linux is used to list files and directories in the current directory.",
+          "reason": "Correctly states the purpose of the 'ls' command.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q5_C2",
+          "criterion_description": "● Any two options with meaning",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "• -l: Displays detailed information such as permissions, owner, size and modification time.\n• -a: Displays all files, including hidden files whose names begin with a dot.",
+          "reason": "Correctly mentions two options used with the 'ls' command.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "Excellent response. The student demonstrates a clear understanding of the 'ls' command in Linux, its purpose, and relevant options.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "6",
+      "max_marks": 3.0,
+      "awarded_marks": 2.5,
+      "marking_explanation": "The student answered the question correctly by providing a clear definition of DHCP and explaining its importance in networking. They mentioned two key points: simplifying network administration and preventing address conflicts. However, they did not explicitly mention the third point of allowing devices to obtain valid network settings automatically, which is also a crucial aspect of DHCP's importance.",
+      "criteria": [
+        {
+          "criterion_id": "Q6_C1",
+          "criterion_description": "● Definition",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "DHCP (Dynamic Host Configuration Protocol) is a network protocol that automatically provides devices with IP addresses and other network configuration information such as subnet mask, default gateway and DNS server addresses.",
+          "reason": "The student provided a clear and accurate definition of DHCP, including its function of automatically providing devices with IP addresses and other network configuration information.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q6_C2",
+          "criterion_description": "● Importance (any two points)",
+          "max_marks": 2.0,
+          "awarded_marks": 1.5,
+          "status": "partial",
+          "evidence": "It is important because it simplifies network administration, prevents address conflicts and allows devices to obtain valid network settings automatically.",
+          "reason": "The student mentioned two points of importance: simplifying network administration and preventing address conflicts. However, they missed the third point of allowing devices to obtain valid network settings automatically.",
+          "missing_concepts": [
+            "allowing devices to obtain valid network settings automatically"
+          ]
+        }
+      ],
+      "overall_feedback": "The student demonstrated a good understanding of DHCP and its importance in networking. They provided clear and accurate information, but could have done better by including all three key points of importance.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "7",
+      "max_marks": 3.0,
+      "awarded_marks": 3.0,
+      "marking_explanation": "The student has identified all three key elements of effective web content creation as per the criterion. Evidence from the student's answer: Clear and relevant content that meets the user's needs, Proper organization using headings, subheadings and paragraphs, and Simple and readable language.",
+      "criteria": [
+        {
+          "criterion_id": "Q7_C1",
+          "criterion_description": "● Any three valid elements → 3 ×",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "Clear and relevant content that meets the user's needs, Proper organization using headings, subheadings and paragraphs, and Simple and readable language.",
+          "reason": "The student has identified three valid elements of effective web content creation.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "Excellent! The student has demonstrated a clear understanding of the key elements of effective web content creation.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.97
+    },
+    {
+      "question_number": "8",
+      "max_marks": 3.0,
+      "awarded_marks": 3.0,
+      "marking_explanation": "The student has correctly identified all three ways to apply CSS to an HTML document: Inline CSS, Internal CSS, and External CSS. Each method is described accurately and clearly.",
+      "criteria": [
+        {
+          "criterion_id": "Q8_C1",
+          "criterion_description": "● Inline CSS",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student wrote: 'CSS is written directly inside an HTML element using the style attribute.' This is a clear and accurate description of Inline CSS.",
+          "reason": "The student's description matches the definition of Inline CSS.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q8_C2",
+          "criterion_description": "● Internal CSS",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student wrote: 'CSS rules are written inside a <style> element in the <head> section of the HTML document.' This is a clear and accurate description of Internal CSS.",
+          "reason": "The student's description matches the definition of Internal CSS.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q8_C3",
+          "criterion_description": "● External CSS",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student wrote: 'CSS rules are written in a separate .css file and linked to the HTML document using the <link> element.' This is a clear and accurate description of External CSS.",
+          "reason": "The student's description matches the definition of External CSS.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The student has demonstrated a thorough understanding of the different ways to apply CSS to an HTML document.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "9",
+      "max_marks": 5.0,
+      "awarded_marks": 5.0,
+      "marking_explanation": "The student has provided complete answers to all 9 criteria, demonstrating a thorough understanding of device management in an operating system.",
+      "criteria": [
+        {
+          "criterion_id": "Q9a_C1",
+          "criterion_description": "Definition of device management",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student defines device management as 'Main functions of device management in an operating system: ...'",
+          "reason": "The definition is clear and concise, covering the essential aspects of device management.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q9a_C2",
+          "criterion_description": "Device allocation & deallocation",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student mentions 'Device allocation - The OS allocates hardware devices to processes that request them.'",
+          "reason": "The student has accurately described device allocation.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q9a_C3",
+          "criterion_description": "I/O scheduling",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student mentions 'I/O scheduling - It schedules I/O requests to improve efficiency and reduce waiting time.'",
+          "reason": "The student has accurately described I/O scheduling.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q9a_C4",
+          "criterion_description": "Buffering, caching, spooling",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student mentions 'Buffering and caching - It temporarily stores data during I/O operations to handle differences in speed between the CPU and devices.'",
+          "reason": "The student has accurately described buffering and caching.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q9a_C5",
+          "criterion_description": "Device drivers & interrupt handling",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student mentions 'It controls devices through device drivers and I/O controllers.'",
+          "reason": "The student has accurately described device drivers and interrupt handling.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q9a_C6",
+          "criterion_description": "Definition of I/O controller",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student defines an I/O controller as 'hardware that manages communication between the CPU/memory and an input or output device.'",
+          "reason": "The definition is clear and concise, covering the essential aspects of an I/O controller.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q9a_C7",
+          "criterion_description": "Role (interface between CPU & devices)",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student describes the role of an I/O controller as 'It receives commands from the CPU, controls the connected device and transfers data between the device and main memory.'",
+          "reason": "The student has accurately described the role of an I/O controller.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q9a_C8",
+          "criterion_description": "Working (data transfer, control signals)",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student describes the working of an I/O controller as 'It also maintains status information and detects errors.'",
+          "reason": "The student has accurately described the working of an I/O controller.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q9a_C9",
+          "criterion_description": "controller)",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student provides examples of I/O controllers, such as disk controllers for HDDs/SSDs, USB controllers for USB devices, and network interface controllers for network communication.",
+          "reason": "The student has provided accurate examples of I/O controllers.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The student has demonstrated a thorough understanding of device management in an operating system, covering all the essential aspects.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.97
+    },
+    {
+      "question_number": "10",
+      "max_marks": 9.0,
+      "awarded_marks": 6.0,
+      "marking_explanation": "The student has demonstrated a good understanding of HDD, optical drives, and SSDs, but has not met the full marks for this question.",
+      "criteria": [
+        {
+          "criterion_id": "Q10_C1",
+          "criterion_description": "● Components: platters, spindle, read/write head",
+          "max_marks": 2.0,
+          "awarded_marks": 1.0,
+          "status": "partial",
+          "evidence": "The student mentions 'magnetic platters', 'spindle', and 'read/write heads' in their answer.",
+          "reason": "The student has only partially met this criterion by mentioning some of the components, but not all of them.",
+          "missing_concepts": [
+            "actuator arm",
+            "controller"
+          ]
+        },
+        {
+          "criterion_id": "Q10_C2",
+          "criterion_description": "● Tracks, sectors explanation",
+          "max_marks": 1.0,
+          "awarded_marks": 0.0,
+          "status": "not_met",
+          "evidence": "The student does not explain tracks and sectors in their answer.",
+          "reason": "The student has not met this criterion as they do not explain tracks and sectors.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q10_C3",
+          "criterion_description": "movement)",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "The student explains the movement of the read/write head in their answer.",
+          "reason": "The student has fully met this criterion by explaining the movement of the read/write head.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q10_C4",
+          "criterion_description": "● Optical drive working (laser-based)",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student explains the working of optical drives in their answer.",
+          "reason": "The student has fully met this criterion by explaining the working of optical drives.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q10_C5",
+          "criterion_description": "● HDD vs Optical (speed, durability)",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student compares HDDs and optical drives in their answer.",
+          "reason": "The student has fully met this criterion by comparing HDDs and optical drives.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q10_C6",
+          "criterion_description": "● SSD vs Optical (no moving parts, faster)",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student compares SSDs and optical drives in their answer.",
+          "reason": "The student has fully met this criterion by comparing SSDs and optical drives.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q10_C7",
+          "criterion_description": "● Any one comparison point (cost/capacity/use)",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student compares HDDs and optical drives in their answer.",
+          "reason": "The student has fully met this criterion by comparing HDDs and optical drives.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The student has demonstrated a good understanding of the components and working of HDDs, optical drives, and SSDs, but could improve by explaining tracks and sectors in their answer.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.97
+    },
+    {
+      "question_number": "11",
+      "max_marks": 9.0,
+      "awarded_marks": 8.0,
+      "marking_explanation": "The student achieved maximum marks for criterion Q11_C1, Q11_C2, Q11_C3 and Q11_C5. However, they lost 1 mark for Q11_C4 as they identified the mistake but did not fully explain the correct procedure. The student's answer correctly converted the given numbers to decimal, identified the correct decimal values, and provided the correct ascending order. They also correctly explained the procedure for decimal to base-k conversion. However, they did not fully address the mistake of keeping remainders in the same order, which would have earned them the full marks for Q11_C4.",
+      "criteria": [
+        {
+          "criterion_id": "Q11_C1",
+          "criterion_description": "Correct conversion of each number",
+          "max_marks": 3.0,
+          "awarded_marks": 3.0,
+          "status": "full",
+          "evidence": "The student correctly converted the given numbers to decimal, e.g. (11011.11)₂ = 27.75₁₀, (25.5)₈ = 21.625₁₀, and (16.6)₁₆ = 22.375₁₀",
+          "reason": "The student provided correct conversions for each number.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q11_C2",
+          "criterion_description": "Correct decimal values",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student correctly identified the decimal values, e.g. 27.75₁₀, 21.625₁₀, and 22.375₁₀",
+          "reason": "The student provided correct decimal values for each number.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q11_C3",
+          "criterion_description": "Correct ascending order",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student correctly provided the ascending order, (25.5)₈ < (16.6)₁₆ < (11011.11)₂",
+          "reason": "The student provided correct ascending order.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q11_C4",
+          "criterion_description": "Mistake identified (remainders not reversed)",
+          "max_marks": 2.0,
+          "awarded_marks": 1.0,
+          "status": "partial",
+          "evidence": "The student identified the mistake of keeping remainders in the same order, but did not fully explain the correct procedure.",
+          "reason": "The student partially addressed the mistake, but did not fully explain the correct procedure.",
+          "missing_concepts": [
+            "The student did not fully explain the correct procedure."
+          ]
+        },
+        {
+          "criterion_id": "Q11_C5",
+          "criterion_description": "Correct procedure explanation",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "The student correctly explained the procedure for decimal to base-k conversion",
+          "reason": "The student provided correct procedure explanation.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The student demonstrated a good understanding of decimal to base-k conversion and identified the mistake correctly. However, they lost marks for not fully addressing the mistake and explaining the correct procedure.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "12",
+      "max_marks": 9.0,
+      "awarded_marks": 8.0,
+      "marking_explanation": "The student has demonstrated a good understanding of the CPU fetch-execute cycle for a LOAD instruction. However, the student has not included the definition of the instruction cycle in their answer, which is a key concept. Despite this, the student has provided a clear and detailed description of the fetch, decode, execute, and register involvement steps. The diagram/sequence clarity is also satisfactory.",
+      "criteria": [
+        {
+          "criterion_id": "Q12_C1",
+          "criterion_description": "● Definition of instruction cycle",
+          "max_marks": 1.0,
+          "awarded_marks": 0.0,
+          "status": "not_met",
+          "evidence": "",
+          "reason": "The student did not provide a definition of the instruction cycle in their answer.",
+          "missing_concepts": [
+            "Definition of instruction cycle"
+          ]
+        },
+        {
+          "criterion_id": "Q12_C2",
+          "criterion_description": "● Fetch step (PC → MAR → MDR → IR)",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "The student described the fetch step as: '1. Fetch instruction - The Program Counter (PC) contains the address of the next instruction. The address is transferred to the Memory Address Register (MAR)'.",
+          "reason": "The student provided a clear and accurate description of the fetch step.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q12_C3",
+          "criterion_description": "● Decode step",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student described the decode step as: '5. Decode - The Control Unit decodes the LOAD instruction and identifies the required memory address'.",
+          "reason": "The student provided a clear and accurate description of the decode step.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q12_C4",
+          "criterion_description": "● Execute step (LOAD operation)",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "The student described the execute step as: '7. Data fetch - The required data is read from memory and transferred to the MDR. 8. Load into accumulator - The data in the MDR is transferred to the Accumulator (ACC)'.",
+          "reason": "The student provided a clear and accurate description of the execute step.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q12_C5",
+          "criterion_description": "● Register involvement (PC, MAR, MDR, IR, ACC)",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "The student described the register involvement as: 'The Program Counter (PC) contains the address of the next instruction. The Memory Address Register (MAR) transfers the address to the Memory Data Register (MDR). The Instruction Register (IR) transfers the instruction to the Accumulator (ACC)'.",
+          "reason": "The student provided a clear and accurate description of the register involvement.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q12_C6",
+          "criterion_description": "● Diagram / sequence clarity",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student's description of the fetch-execute cycle is clear and easy to follow.",
+          "reason": "The student's description is clear and easy to follow.",
+          "missing_concepts": []
+        }
+      ],
+      "overall_feedback": "The student has demonstrated a good understanding of the CPU fetch-execute cycle for a LOAD instruction. However, the student did not include the definition of the instruction cycle in their answer, which is a key concept.",
+      "source_pages": [
+        2
+      ],
+      "ocr_confidence": 0.97
+    },
+    {
+      "question_number": "13",
+      "max_marks": 9.0,
+      "awarded_marks": 7.0,
+      "marking_explanation": "The student answered most criteria correctly. However, there was some minor inaccuracy in the description of the DHCP process and one of the solutions lacked clarity.",
+      "criteria": [
+        {
+          "criterion_id": "Q13_C1",
+          "criterion_description": "● Discovery",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student explained that DORA stands for Discover, Offer, Request, and Acknowledge.",
+          "reason": "Correct definition of Discovery in the DHCP process."
+        },
+        {
+          "criterion_id": "Q13_C2",
+          "criterion_description": "● Offer",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student stated that a DHCP server responds with a DHCP Offer containing a proposed IP address and network configuration.",
+          "reason": "Correct description of the Offer phase in the DHCP process."
+        },
+        {
+          "criterion_id": "Q13_C3",
+          "criterion_description": "● Request",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student described that the client broadcasts a DHCP Request indicating that it accepts the offered configuration.",
+          "reason": "Correct explanation of the Request phase in the DHCP process."
+        },
+        {
+          "criterion_id": "Q13_C4",
+          "criterion_description": "● Acknowledgement",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student mentioned that the selected DHCP server sends a DHCP ACK message confirming the IP address lease and configuration.",
+          "reason": "Correct description of the Acknowledgement phase in the DHCP process."
+        },
+        {
+          "criterion_id": "Q13_C5",
+          "criterion_description": "● Example explanation",
+          "max_marks": 1.0,
+          "awarded_marks": 0.0,
+          "status": "not_met",
+          "evidence": "The student failed to provide a clear example explanation of the DHCP process.",
+          "reason": "Lacked a concrete example to illustrate the DHCP process."
+        },
+        {
+          "criterion_id": "Q13_C6",
+          "criterion_description": "● Any three issues",
+          "max_marks": 3.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "The student listed IP address conflict, DHCP server unavailable, and DHCP address pool exhaustion as common issues and provided solutions.",
+          "reason": "Correctly identified three common DHCP issues and their solutions."
+        },
+        {
+          "criterion_id": "Q13_C7",
+          "criterion_description": "Solutions",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student provided solutions for IP address conflict, DHCP server unavailable, and DHCP address pool exhaustion.",
+          "reason": "Correctly described solutions to common DHCP issues."
+        }
+      ],
+      "overall_feedback": "The student demonstrated a good understanding of the DHCP process and common issues. However, they could improve by providing clear examples and concise descriptions.",
+      "source_pages": [
+        3
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "14",
+      "max_marks": 9.0,
+      "awarded_marks": 8.0,
+      "marking_explanation": "The student answered 4 out of 4 criteria fully, but missed 1 criterion partially.",
+      "criteria": [
+        {
+          "criterion_id": "Q14_C1",
+          "criterion_description": "● Explanation of types (bus, star, ring, mesh)",
+          "max_marks": 4.0,
+          "awarded_marks": 4.0,
+          "status": "full",
+          "evidence": "The student listed and explained 5 different types of network topologies: bus, star, ring, mesh, and tree.",
+          "reason": "The student provided a clear and accurate explanation of each topology type."
+        },
+        {
+          "criterion_id": "Q14_C2",
+          "criterion_description": "● Advantages",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "The student listed the advantages of bus, star, ring, mesh, and tree topologies, including speed, reliability, and cost.",
+          "reason": "The student provided a thorough explanation of the advantages of each topology type."
+        },
+        {
+          "criterion_id": "Q14_C3",
+          "criterion_description": "● Disadvantages",
+          "max_marks": 2.0,
+          "awarded_marks": 2.0,
+          "status": "full",
+          "evidence": "The student listed the disadvantages of bus, star, ring, mesh, and tree topologies, including security, scalability, and complexity.",
+          "reason": "The student provided a thorough explanation of the disadvantages of each topology type."
+        },
+        {
+          "criterion_id": "Q14_C4",
+          "criterion_description": "● Real-world applications",
+          "max_marks": 1.0,
+          "awarded_marks": 0.0,
+          "status": "not_met",
+          "evidence": "The student listed 6 different applications, but only 1 of them (older Ethernet networks) was a correct example of a real-world application of a specific topology type.",
+          "reason": "The student missed the requirement to provide real-world applications of each topology type."
+        }
+      ],
+      "overall_feedback": "The student provided a clear and thorough explanation of the different network topology types, including their advantages and disadvantages, and listed 6 different applications. However, the student missed the requirement to provide real-world applications of each topology type, which resulted in a loss of 1 mark.",
+      "source_pages": [
+        3
+      ],
+      "ocr_confidence": 0.97
+    },
+    {
+      "question_number": "15",
+      "max_marks": 9.0,
+      "awarded_marks": 8.0,
+      "marking_explanation": "The student received 8 marks out of 9 for this question. They correctly identified background styling, heading style, and font styling in their CSS rules. They also provided a clear explanation of the benefits of using an external stylesheet for multi-page websites. However, they missed the concept of performance (caching) in their explanation.",
+      "criteria": [
+        {
+          "criterion_id": "Q15_C1",
+          "criterion_description": "Background styling",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "body { background-color: gray; }",
+          "reason": "The student correctly set the background color to gray using the CSS rule.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q15_C2",
+          "criterion_description": "Heading style",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "h1 { text-align: center; }",
+          "reason": "The student correctly set the text alignment to center using the CSS rule.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q15_C3",
+          "criterion_description": "Font styling",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "p { text-align: justify; }",
+          "reason": "The student correctly set the text alignment to justify using the CSS rule.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q15_C4",
+          "criterion_description": "Correct syntax",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The CSS rules are written in correct syntax.",
+          "reason": "The student wrote the CSS rules in correct syntax.",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q15_C5",
+          "criterion_description": "Overall structure",
+          "max_marks": 1.0,
+          "awarded_marks": 0.0,
+          "status": "not_met",
+          "evidence": "",
+          "reason": "The student did not address the overall structure of the webpage.",
+          "missing_concepts": [
+            "overall structure"
+          ]
+        },
+        {
+          "criterion_id": "Q15_C6",
+          "criterion_description": "Reusability",
+          "max_marks": 1.0,
+          "awarded_marks": 0.0,
+          "status": "not_met",
+          "evidence": "",
+          "reason": "The student did not address the reusability of the webpage.",
+          "missing_concepts": [
+            "reusability"
+          ]
+        },
+        {
+          "criterion_id": "Q15_C7",
+          "criterion_description": "Maintainability",
+          "max_marks": 1.0,
+          "awarded_marks": 0.0,
+          "status": "not_met",
+          "evidence": "",
+          "reason": "The student did not address the maintainability of the webpage.",
+          "missing_concepts": [
+            "maintainability"
+          ]
+        },
+        {
+          "criterion_id": "Q15_C8",
+          "criterion_description": "Performance (caching)",
+          "max_marks": 1.0,
+          "awarded_marks": 0.0,
+          "status": "not_met",
+          "evidence": "",
+          "reason": "The student did not address the performance (caching) of the webpage.",
+          "missing_concepts": [
+            "performance (caching)"
+          ]
+        },
+        {
+          "criterion_id": "Q15_C9",
+          "criterion_description": "Separation of content & design",
+          "max_marks": 1.0,
+          "awarded_marks": 0.0,
+          "status": "not_met",
+          "evidence": "",
+          "reason": "The student did not address the separation of content and design.",
+          "missing_concepts": [
+            "separation of content & design"
+          ]
+        }
+      ],
+      "overall_feedback": "The student demonstrated good understanding of CSS rules and their application in webpage styling. However, they missed some important concepts such as overall structure, reusability, maintainability, performance (caching), and separation of content and design. They should focus on addressing these concepts in their next attempt.",
+      "source_pages": [
+        3
+      ],
+      "ocr_confidence": 0.98
+    },
+    {
+      "question_number": "16",
+      "max_marks": 9.0,
+      "awarded_marks": 8.0,
+      "marking_explanation": "The student has demonstrated a good understanding of FTP and its functions. However, they have missed the 'Verification' criterion.",
+      "criteria": [
+        {
+          "criterion_id": "Q16_C1",
+          "criterion_description": "● Definition of FTP",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student has correctly defined FTP as a network protocol used to transfer files between a client and a web server.",
+          "reason": "Directly mentioned in the student's answer",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q16_C2",
+          "criterion_description": "● File transfer function",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student has explained how FTP helps manage website content by allowing files to be uploaded and downloaded.",
+          "reason": "Directly mentioned in the student's answer",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q16_C3",
+          "criterion_description": "● Upload/download management",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student has explained how FTP allows files to be uploaded and downloaded.",
+          "reason": "Directly mentioned in the student's answer",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q16_C4",
+          "criterion_description": "● Directory management",
+          "max_marks": 1.0,
+          "awarded_marks": 0.0,
+          "status": "not_met",
+          "evidence": "The student has not mentioned anything about directory management.",
+          "reason": "Missing from the student's answer",
+          "missing_concepts": [
+            "Directory management"
+          ]
+        },
+        {
+          "criterion_id": "Q16_C5",
+          "criterion_description": "● Efficiency explanation",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student has briefly explained how FTP helps manage website content.",
+          "reason": "Directly mentioned in the student's answer",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q16_C6",
+          "criterion_description": "● Connect to server",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student has explained how the FTP client connects to the web server.",
+          "reason": "Directly mentioned in the student's answer",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q16_C7",
+          "criterion_description": "● Authentication",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student has explained how the FTP client connects to the web server using authentication credentials.",
+          "reason": "Directly mentioned in the student's answer",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q16_C8",
+          "criterion_description": "● File transfer (upload)",
+          "max_marks": 1.0,
+          "awarded_marks": 1.0,
+          "status": "full",
+          "evidence": "The student has explained how to upload files to a web server using FTP.",
+          "reason": "Directly mentioned in the student's answer",
+          "missing_concepts": []
+        },
+        {
+          "criterion_id": "Q16_C9",
+          "criterion_description": "● Verification",
+          "max_marks": 1.0,
+          "awarded_marks": 0.0,
+          "status": "not_met",
+          "evidence": "The student has not mentioned anything about verification.",
+          "reason": "Missing from the student's answer",
+          "missing_concepts": [
+            "Verification"
+          ]
+        }
+      ],
+      "overall_feedback": "The student has demonstrated a good understanding of FTP and its functions, but has missed two important criteria.",
+      "source_pages": [
+        3
+      ],
+      "ocr_confidence": 0.98
+    }
+  ],
+  "counted_questions": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "10",
+    "12",
+    "14",
+    "15"
+  ],
+  "or_questions_not_counted": [
+    {
+      "question_number": "9",
+      "awarded_marks": 5.0,
+      "max_marks": 5.0,
+      "reason": "OR alternative not counted because another answer in the same OR group received higher marks."
+    },
+    {
+      "question_number": "11",
+      "awarded_marks": 8.0,
+      "max_marks": 9.0,
+      "reason": "OR alternative not counted because another answer in the same OR group received higher marks."
+    },
+    {
+      "question_number": "13",
+      "awarded_marks": 7.0,
+      "max_marks": 9.0,
+      "reason": "OR alternative not counted because another answer in the same OR group received higher marks."
+    },
+    {
+      "question_number": "16",
+      "awarded_marks": 8.0,
+      "max_marks": 9.0,
+      "reason": "OR alternative not counted because another answer in the same OR group received higher marks."
+    }
+  ]
+}

@@ -1,0 +1,557 @@
+{
+    "exam": {
+        "course_code": null,
+        "subject": null,
+        "maximum_marks": null,
+        "duration": null
+    },
+    "sections": [],
+    "questions": [
+        {
+            "id": "Q1",
+            "number": "1",
+            "text": "Write any 3 drinking water quality parameters with their standards.",
+            "marks": 3.0,
+            "section": "Part A",
+            "module": null,
+            "co": null,
+            "selection_group_id": null,
+            "criteria": [],
+            "sub_questions": []
+        },
+        {
+            "id": "Q2",
+            "number": "2",
+            "text": "Discuss the significance of public participation in EIA.",
+            "marks": 3.0,
+            "section": "Part A",
+            "module": null,
+            "co": null,
+            "selection_group_id": null,
+            "criteria": [
+                {
+                    "id": "Q2_C1",
+                    "description": " Identification of local environmental/social concerns",
+                    "marks": 1.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q2_C2",
+                    "description": " Opportunity for the public to express opinions and concerns",
+                    "marks": 1.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q2_C3",
+                    "description": " Transparency, better decisions, mitigation or conflict reduction",
+                    "marks": 1.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                }
+            ],
+            "sub_questions": []
+        },
+        {
+            "id": "Q3",
+            "number": "3",
+            "text": "Define noise pollution and list out common sources of noise pollution.",
+            "marks": 3.0,
+            "section": "Part A",
+            "module": null,
+            "co": null,
+            "selection_group_id": null,
+            "criteria": [
+                {
+                    "id": "Q3_C1",
+                    "description": " Correct definition of noise pollution",
+                    "marks": 1.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q3_C2",
+                    "description": " Any two valid sources (traffic, aircraft, machinery, construction, loudspeakers, etc.)",
+                    "marks": 1.0,
+                    "rule_type": "any_n",
+                    "required_count": 2
+                }
+            ],
+            "sub_questions": []
+        },
+        {
+            "id": "Q4",
+            "number": "4",
+            "text": "Define the following terms: i) Impact Prediction ii) Socio economic Impacts",
+            "marks": 3.0,
+            "section": "Part A",
+            "module": null,
+            "co": null,
+            "selection_group_id": null,
+            "criteria": [
+                {
+                    "id": "Q4_C1",
+                    "description": " Impact prediction: estimating likely environmental changes caused by a project",
+                    "marks": 1.5,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q4_C2",
+                    "description": "",
+                    "marks": 1.5,
+                    "rule_type": "standard",
+                    "required_count": null
+                }
+            ],
+            "sub_questions": []
+        },
+        {
+            "id": "Q5",
+            "number": "5",
+            "text": "Write any two impacts on the water environment due to any solid waste management project and suggest the mitigation measures.",
+            "marks": 3.0,
+            "section": "Part A",
+            "module": null,
+            "co": null,
+            "selection_group_id": null,
+            "criteria": [
+                {
+                    "id": "Q5_C1",
+                    "description": " First valid water impact with relevant mitigation",
+                    "marks": 1.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q5_C2",
+                    "description": " Second distinct water impact with relevant mitigation",
+                    "marks": 1.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q5_C3",
+                    "description": " Additional technical detail (liner, leachate treatment, drainage, monitoring, etc.)",
+                    "marks": 1.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                }
+            ],
+            "sub_questions": []
+        },
+        {
+            "id": "Q6",
+            "number": "6",
+            "text": "Write any three impacts of a quarry mining project.",
+            "marks": 3.0,
+            "section": "Part A",
+            "module": null,
+            "co": null,
+            "selection_group_id": null,
+            "criteria": [],
+            "sub_questions": []
+        },
+        {
+            "id": "Q7",
+            "number": "7",
+            "text": "Answer either Q7 OR Q8.",
+            "marks": 14.0,
+            "section": "Part B",
+            "module": null,
+            "co": null,
+            "selection_group_id": null,
+            "criteria": [],
+            "sub_questions": [
+                {
+                    "id": "7a",
+                    "text": "Explain why EIA is needed for developmental projects.",
+                    "marks": 9.0,
+                    "criteria": [
+                        {
+                            "id": "Q7a_C1",
+                            "description": " Definition/purpose of EIA",
+                            "marks": 1.0,
+                            "rule_type": "standard",
+                            "required_count": null
+                        },
+                        {
+                            "id": "Q7a_C2",
+                            "description": " Early identification of impacts",
+                            "marks": 1.0,
+                            "rule_type": "standard",
+                            "required_count": null
+                        },
+                        {
+                            "id": "Q7a_C3",
+                            "description": " Informed decision-making",
+                            "marks": 1.0,
+                            "rule_type": "standard",
+                            "required_count": null
+                        },
+                        {
+                            "id": "Q7a_C4",
+                            "description": " Analysis of alternatives",
+                            "marks": 1.0,
+                            "rule_type": "standard",
+                            "required_count": null
+                        },
+                        {
+                            "id": "Q7a_C5",
+                            "description": " Mitigation planning",
+                            "marks": 1.0,
+                            "rule_type": "standard",
+                            "required_count": null
+                        },
+                        {
+                            "id": "Q7a_C6",
+                            "description": " Legal compliance",
+                            "marks": 1.0,
+                            "rule_type": "standard",
+                            "required_count": null
+                        },
+                        {
+                            "id": "Q7a_C7",
+                            "description": " Public participation",
+                            "marks": 1.0,
+                            "rule_type": "standard",
+                            "required_count": null
+                        },
+                        {
+                            "id": "Q7a_C8",
+                            "description": " Resource conservation / sustainable development",
+                            "marks": 1.0,
+                            "rule_type": "standard",
+                            "required_count": null
+                        },
+                        {
+                            "id": "Q7a_C9",
+                            "description": " Monitoring and accountability",
+                            "marks": 1.0,
+                            "rule_type": "standard",
+                            "required_count": null
+                        }
+                    ]
+                },
+                {
+                    "id": "7b",
+                    "text": "Discuss the limitations of Environmental Impact Assessment.",
+                    "marks": 5.0,
+                    "criteria": []
+                }
+            ]
+        },
+        {
+            "id": "Q8",
+            "number": "8",
+            "text": "Discuss in details about the Water (Prevention & Control of Pollution) Act 1974. [OR alternative to Q7]",
+            "marks": 14.0,
+            "section": "Part B",
+            "module": null,
+            "co": null,
+            "selection_group_id": null,
+            "criteria": [
+                {
+                    "id": "Q8_C1",
+                    "description": " Objectives and introduction",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q8_C2",
+                    "description": " CPCB functions",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q8_C3",
+                    "description": " SPCB functions",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q8_C4",
+                    "description": " Control of discharges / Section 24",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q8_C5",
+                    "description": " Consent provisions / Sections 25 and 26",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q8_C6",
+                    "description": " Inspection, sampling and laboratories",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q8_C7",
+                    "description": " Enforcement, penalties and significance",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                }
+            ],
+            "sub_questions": []
+        },
+        {
+            "id": "Q9",
+            "number": "9",
+            "text": "Explain the valuation and Mitigation- Prediction and assessment of the impact on air. [Answer either Q9 OR Q10]",
+            "marks": 14.0,
+            "section": "Part B",
+            "module": null,
+            "co": null,
+            "selection_group_id": null,
+            "criteria": [
+                {
+                    "id": "Q9_C1",
+                    "description": " Identification of air pollution sources",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q9_C2",
+                    "description": " Baseline air-quality monitoring and meteorology",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q9_C3",
+                    "description": " Emission estimation and impact prediction",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q9_C4",
+                    "description": " Comparison with standards and exposure assessment",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q9_C5",
+                    "description": " Valuation and significance assessment",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q9_C6",
+                    "description": " Monitoring and corrective action",
+                    "marks": 1.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                }
+            ],
+            "sub_questions": []
+        },
+        {
+            "id": "Q10",
+            "number": "10",
+            "text": "How can air quality modelling help in assessing the impact on air? [OR alternative to Q9]",
+            "marks": 14.0,
+            "section": "Part B",
+            "module": null,
+            "co": null,
+            "selection_group_id": null,
+            "criteria": [
+                {
+                    "id": "Q10_C1",
+                    "description": " Definition and purpose",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q10_C2",
+                    "description": " Input data: emissions, meteorology, terrain, background concentrations",
+                    "marks": 3.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q10_C3",
+                    "description": " Modelling procedure and predicted ground-level concentrations",
+                    "marks": 3.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q10_C4",
+                    "description": " Types of models and appropriate uses",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q10_C5",
+                    "description": " Benefits for identifying hotspots and testing mitigation",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q10_C6",
+                    "description": " Limitations, validation and monitoring",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                }
+            ],
+            "sub_questions": []
+        },
+        {
+            "id": "Q11",
+            "number": "11",
+            "text": "Explain an EIA case study of any highway widening project in Kerala in detail. [Answer either Q11 OR Q12]",
+            "marks": 14.0,
+            "section": "Part B",
+            "module": null,
+            "co": null,
+            "selection_group_id": null,
+            "criteria": [
+                {
+                    "id": "Q11_C1",
+                    "description": " Project description and objectives",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q11_C2",
+                    "description": " Baseline environmental conditions",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q11_C3",
+                    "description": " Construction and operational impacts",
+                    "marks": 3.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q11_C4",
+                    "description": " Social impacts and land acquisition",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q11_C5",
+                    "description": " Mitigation measures",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q11_C6",
+                    "description": " Environmental Management Plan and monitoring",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q11_C7",
+                    "description": " Public participation and conclusion",
+                    "marks": 1.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                }
+            ],
+            "sub_questions": []
+        },
+        {
+            "id": "Q12",
+            "number": "12",
+            "text": "Explain the generic structure of an EIA in the case of any airport project. [OR alternative to Q11]",
+            "marks": 14.0,
+            "section": "Part B",
+            "module": null,
+            "co": null,
+            "selection_group_id": null,
+            "criteria": [
+                {
+                    "id": "Q12_C1",
+                    "description": " Executive summary and project description",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q12_C2",
+                    "description": " Regulatory framework and baseline data",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q12_C3",
+                    "description": " Analysis of alternatives",
+                    "marks": 1.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q12_C4",
+                    "description": " Impact identification and prediction",
+                    "marks": 3.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q12_C5",
+                    "description": " Impact evaluation",
+                    "marks": 1.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q12_C6",
+                    "description": " Mitigation measures",
+                    "marks": 2.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q12_C7",
+                    "description": " Environmental Management Plan and monitoring",
+                    "marks": 1.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q12_C8",
+                    "description": " Risk/disaster management",
+                    "marks": 1.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                },
+                {
+                    "id": "Q12_C9",
+                    "description": " Public consultation and conclusion",
+                    "marks": 1.0,
+                    "rule_type": "standard",
+                    "required_count": null
+                }
+            ],
+            "sub_questions": []
+        }
+    ],
+    "selection_groups": []
+}

@@ -1,0 +1,21 @@
+{
+    "validation": {
+        "status": "VALID",
+        "valid": true,
+        "timestamp": "2026-11-01T14:18:00.471655",
+        "error_count": 0,
+        "warning_count": 0
+    },
+    "structure_validation": {
+        "valid": true,
+        "errors": [],
+        "warnings": []
+    },
+    "content_validation": {
+        "valid": true,
+        "errors": [],
+        "warnings": []
+    },
+    "errors": [],
+    "warnings": []
+}

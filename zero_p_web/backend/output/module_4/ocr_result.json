@@ -1,0 +1,354 @@
+{
+    "document": {
+        "pdf_path": "C:\\Users\\NAVANEETH\\OneDrive\\Desktop\\zero_p_connected_model_selection\\restart\\zero_p_web\\backend\\data\\uploads\\a68ee4b8-21cb-40b7-a09a-3c082dd41d0f.pdf",
+        "total_pages": 8,
+        "cover_page": 1,
+        "answer_pages": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    "student": {
+        "student_name": "NIHARIKA RANJITH",
+        "register_number": "VML23AD075",
+        "roll_number": "9169",
+        "subject": "EIA",
+        "course": "AIT401",
+        "semester": "",
+        "examination": "FN / AN / NN",
+        "date": "",
+        "department": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE"
+    },
+    "pages": [
+        {
+            "page_number": 1,
+            "page_type": "COVER",
+            "student": {
+                "student_name": "NIHARIKA RANJITH",
+                "register_number": "VML23AD075",
+                "roll_number": "9169",
+                "subject": "EIA",
+                "course": "AIT401",
+                "semester": "",
+                "examination": "FN / AN / NN",
+                "date": "",
+                "department": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE"
+            }
+        },
+        {
+            "page_number": 2,
+            "page_type": "ANSWER",
+            "answers": [
+                {
+                    "answer_number": "2",
+                    "answer_text": "In the environmental impact assessment the public participation plays a major role because while designing a project, it can cause harm to human beings in many ways. People can lose their land, property, habitat etc. It can even cause harm to their health issues due to air pollution, water pollution, noise pollution etc. It can cause harm to the biodiversity. The public participation is important because the publics can express their opinion and tell their concerns. Then the project can be done by meeting the needs of the people.",
+                    "elements": [
+                        {
+                            "type": "text",
+                            "content": "In the environmental impact assessment the public participation plays a major role because while designing a project, it can cause harm to human beings in many ways. People can lose their land, property, habitat etc. It can even cause harm to their health issues due to air pollution, water pollution, noise pollution etc. It can cause harm to the biodiversity. The public participation is important because the publics can express their opinion and tell their concerns. Then the project can be done by meeting the needs of the people.",
+                            "confidence": 0.92
+                        }
+                    ],
+                    "continues_to_next_page": false,
+                    "source_page": 2
+                },
+                {
+                    "answer_number": "3",
+                    "answer_text": "Noise pollution is a type of pollution that occurs through noise. That is, it can be from the noise of horns of vehicles, machinery noises, noise of vehicles etc. These noises can effect the ears of living beings which can lead to becoming deaf. It can also effect the ecosystem by disturbing the environment using excessive noises. Using horns while necessary reduces the impact of noise pollution. Also reduce the use of machines that",
+                    "elements": [
+                        {
+                            "type": "text",
+                            "content": "Noise pollution is a type of pollution that occurs through noise. That is, it can be from the noise of horns of vehicles, machinery noises, noise of vehicles etc. These noises can effect the ears of living beings which can lead to becoming deaf. It can also effect the ecosystem by disturbing the environment using excessive noises. Using horns while necessary reduces the impact of noise pollution. Also reduce the use of machines that",
+                            "confidence": 0.91
+                        }
+                    ],
+                    "continues_to_next_page": true,
+                    "source_page": 2
+                }
+            ]
+        },
+        {
+            "page_number": 3,
+            "page_type": "ANSWER",
+            "answers": [
+                {
+                    "answer_number": "4",
+                    "answer_text": "i) Impact prediction refers to the process of identifying the severity or extent of the impact. After identifying the impact as positive or negative we perform impact prediction which helps to understand the severity and take precautions according to it.\n\nii). Socio economic impact refers to the impact that causes harm to the social and economic part which includes society, Disarman beings peoples, economics etc. This can be reduced by taking safety measures like rehabilitation, or following the rules and laws of the environments.",
+                    "elements": [
+                        {
+                            "type": "text",
+                            "content": "i) Impact prediction refers to the process of identifying the severity or extent of the impact. After identifying the impact as positive or negative we perform impact prediction which helps to understand the severity and take precautions according to it.",
+                            "confidence": 0.88
+                        },
+                        {
+                            "type": "text",
+                            "content": "ii). Socio economic impact refers to the impact that causes harm to the social and economic part which includes society, Disarman beings peoples, economics etc. This can be reduced by taking safety measures like rehabilitation, or following the rules and laws of the environments.",
+                            "confidence": 0.85
+                        }
+                    ],
+                    "continues_to_next_page": false,
+                    "source_page": 3
+                },
+                {
+                    "answer_number": "5",
+                    "answer_text": "The two impacts on the water environment due to any solid waste management project include :-\n\n* Underground water - Occurs when the waste materials degrade to the ground, it causes the chemicals contained in it gets dissolved with underground water which can cause health issues and other harms.",
+                    "elements": [
+                        {
+                            "type": "text",
+                            "content": "The two impacts on the water environment due to any solid waste management project include :-\n\n* Underground water - Occurs when the waste materials degrade to the ground, it causes the chemicals contained in it gets dissolved with underground water which can cause health issues and other harms.",
+                            "confidence": 0.87
+                        }
+                    ],
+                    "continues_to_next_page": true,
+                    "source_page": 3
+                }
+            ]
+        },
+        {
+            "page_number": 4,
+            "page_type": "ANSWER",
+            "answers": [
+                {
+                    "answer_number": "5",
+                    "answer_text": "pollution warnings - the proper waste management plans and an effective waste on the ground carefully.\n\nInfection written - before the waste materials are thrown to the water bodies like river, ponds, lakes etc, the chemicals in the waste get dissolved in the water which also leads to many health issues as well as other harms.\n\nmitigation measures - Avoid throwing waste to the side of river bodies like rivers, ponds, lakes and make use of waste bins and other waste management plans.",
+                    "elements": [
+                        {
+                            "type": "text",
+                            "content": "pollution warnings - the proper waste management plans and an effective waste on the ground carefully.",
+                            "confidence": 0.6
+                        },
+                        {
+                            "type": "text",
+                            "content": "Infection written - before the waste materials are thrown to the water bodies like river, ponds, lakes etc, the chemicals in the waste get dissolved in the water which also leads to many health issues as well as other harms.",
+                            "confidence": 0.65
+                        },
+                        {
+                            "type": "text",
+                            "content": "mitigation measures - Avoid throwing waste to the side of river bodies like rivers, ponds, lakes and make use of waste bins and other waste management plans.",
+                            "confidence": 0.7
+                        }
+                    ],
+                    "continues_to_next_page": false,
+                    "source_page": 4
+                },
+                {
+                    "answer_number": "6",
+                    "answer_text": "Impacts caused due to quarry mining project include:\n\n* Noise pollution - Blasting, drilling etc can make large noises causing harm to people as well as workers. Heavy noise of machinery can also create cause harm.\n\n* Air pollution - While drilling, blasting disturbs the air gets polluted by dust particles and cause harm to people nearby as well as workers.",
+                    "elements": [
+                        {
+                            "type": "text",
+                            "content": "Impacts caused due to quarry mining project include:",
+                            "confidence": 0.8
+                        },
+                        {
+                            "type": "text",
+                            "content": "* Noise pollution - Blasting, drilling etc can make large noises causing harm to people as well as workers. Heavy noise of machinery can also create cause harm.",
+                            "confidence": 0.75
+                        },
+                        {
+                            "type": "text",
+                            "content": "* Air pollution - While drilling, blasting disturbs the air gets polluted by dust particles and cause harm to people nearby as well as workers.",
+                            "confidence": 0.75
+                        }
+                    ],
+                    "continues_to_next_page": true,
+                    "source_page": 4
+                }
+            ]
+        },
+        {
+            "page_number": 5,
+            "page_type": "ANSWER",
+            "answers": [
+                {
+                    "answer_number": "6",
+                    "answer_text": "Water pollution - The underground water can be affected by drilling for doing quarry mining process.\n\nLoss of plantation - Plants and trees are removed from the places which can cause huge amount of damage to the ecosystem.",
+                    "elements": [
+                        {
+                            "type": "text",
+                            "content": "Water pollution - The underground water can be affected by drilling for doing quarry mining process.",
+                            "confidence": 0.88
+                        },
+                        {
+                            "type": "text",
+                            "content": "Loss of plantation - Plants and trees are removed from the places which can cause huge amount of damage to the ecosystem.",
+                            "confidence": 0.9
+                        }
+                    ],
+                    "continues_to_next_page": false,
+                    "source_page": 5
+                },
+                {
+                    "answer_number": "11",
+                    "answer_text": "Lets consider the the current highway widening project in Kerala which NH66.\n\nObjectives :-\n- Traffic reduction\n- Raising Easy transportation\n- Less noise pollution\n- Less worthing wasting of time\n- Reduce air pollution\n\nBaseline study\nCollects all the details about the current status of air, water, noise and other data, to study the land and design the project according to that.\n\nImpact identification\nIdentify the positive and negative impacts that occur while the building of project.",
+                    "elements": [
+                        {
+                            "type": "text",
+                            "content": "Lets consider the the current highway widening project in Kerala which NH66.",
+                            "confidence": 0.91
+                        },
+                        {
+                            "type": "text",
+                            "content": "Objectives :-\n- Traffic reduction\n- Raising Easy transportation\n- Less noise pollution\n- Less worthing wasting of time\n- Reduce air pollution",
+                            "confidence": 0.89
+                        },
+                        {
+                            "type": "text",
+                            "content": "Baseline study\nCollects all the details about the current status of air, water, noise and other data, to study the land and design the project according to that.",
+                            "confidence": 0.91
+                        },
+                        {
+                            "type": "text",
+                            "content": "Impact identification\nIdentify the positive and negative impacts that occur while the building of project.",
+                            "confidence": 0.9
+                        }
+                    ],
+                    "continues_to_next_page": true,
+                    "source_page": 5
+                }
+            ]
+        },
+        {
+            "page_number": 6,
+            "page_type": "ANSWER",
+            "answers": [
+                {
+                    "answer_number": "11",
+                    "answer_text": "- Reduce the effect of using thorns unnecessarily.\n- Avoid causing air pollution during construction which can cause respiratory problems\n\n* Public participation\nCommunicate with the public and understand their concerns. Ask them what are the issues they face and take measures according to that.\n\n* EIA report\nPrepare an EIA report which contains the details of the project\n\n* Compliance with laws\nThe project must be done by forming compliance with environmental laws and rules.\n\n* Continuous monitoring\nThe project should be monitored continuously untill the project is completed. Each changes should be recorded and updated. All the required safety measures should be taken for workers as well as for the environment.",
+                    "elements": [
+                        {
+                            "type": "text",
+                            "content": "- Reduce the effect of using thorns unnecessarily.\n- Avoid causing air pollution during construction which can cause respiratory problems",
+                            "confidence": 0.82
+                        },
+                        {
+                            "type": "text",
+                            "content": "* Public participation\nCommunicate with the public and understand their concerns. Ask them what are the issues they face and take measures according to that.",
+                            "confidence": 0.9
+                        },
+                        {
+                            "type": "text",
+                            "content": "* EIA report\nPrepare an EIA report which contains the details of the project",
+                            "confidence": 0.92
+                        },
+                        {
+                            "type": "text",
+                            "content": "* Compliance with laws\nThe project must be done by forming compliance with environmental laws and rules.",
+                            "confidence": 0.91
+                        },
+                        {
+                            "type": "text",
+                            "content": "* Continuous monitoring\nThe project should be monitored continuously untill the project is completed. Each changes should be recorded and updated. All the required safety measures should be taken for workers as well as for the environment.",
+                            "confidence": 0.88
+                        }
+                    ],
+                    "continues_to_next_page": true,
+                    "source_page": 6
+                }
+            ]
+        },
+        {
+            "page_number": 7,
+            "page_type": "ANSWER",
+            "answers": [
+                {
+                    "answer_number": "11",
+                    "answer_text": "Positive impacts can include: traffic reduction, reduce of air pollution, less noise, collecting, easy transportation etc.\n\nNegative impacts can include: loss of plantation due to cutting down trees and plants, loss of habitats of human beings as well as other living organisms, loss of land etc.\n\nx. Impact prediction\nIdentify the severity and extend of the impact so that the project can be build by considering the impacts and take precautions or redesign the project.\n\nx Impact evaluation\nIdentify the impacts and evaluate the impacts and check how much useful and less harmful it is.\n\nx. Mitigation measures\nTake the corresponding mitigation measures to reduce the negative impact and during build the project.\nIt includes:-\n- planting trees on both sides to not to disturb the ecosystem for cutting trees.\n- Relocate/Rehabilitate people to safer places.",
+                    "elements": [
+                        {
+                            "type": "text",
+                            "content": "Positive impacts can include: traffic reduction, reduce of air pollution, less noise, collecting, easy transportation etc.",
+                            "confidence": 0.78
+                        },
+                        {
+                            "type": "text",
+                            "content": "Negative impacts can include: loss of plantation due to cutting down trees and plants, loss of habitats of human beings as well as other living organisms, loss of land etc.",
+                            "confidence": 0.8
+                        },
+                        {
+                            "type": "text",
+                            "content": "x. Impact prediction\nIdentify the severity and extend of the impact so that the project can be build by considering the impacts and take precautions or redesign the project.",
+                            "confidence": 0.85
+                        },
+                        {
+                            "type": "text",
+                            "content": "x Impact evaluation\nIdentify the impacts and evaluate the impacts and check how much useful and less harmful it is.",
+                            "confidence": 0.82
+                        },
+                        {
+                            "type": "text",
+                            "content": "x. Mitigation measures\nTake the corresponding mitigation measures to reduce the negative impact and during build the project.\nIt includes:-\n- planting trees on both sides to not to disturb the ecosystem for cutting trees.\n- Relocate/Rehabilitate people to safer places.",
+                            "confidence": 0.8
+                        }
+                    ],
+                    "continues_to_next_page": false,
+                    "source_page": 7
+                }
+            ]
+        },
+        {
+            "page_number": 8,
+            "page_type": "ANSWER",
+            "answers": [
+                {
+                    "answer_number": "7a",
+                    "answer_text": "EIA helps to identify the impact of the environment.\nIt helps to provide sustainable development.\nPromote the compliance with environmental laws and rules.\nProtects the plants and animals.\nProtects the biodiversity and ecosystem.\nHelps to identify impact and take precautions.\nHelps to take correct mitigation measures.\nHelps to identify the impact and redesign the project.\nHelps to make better plan or decision on a project.",
+                    "elements": [
+                        {
+                            "type": "text",
+                            "content": "EIA helps to identify the impact of the environment.",
+                            "confidence": 0.92
+                        },
+                        {
+                            "type": "text",
+                            "content": "It helps to provide sustainable development.",
+                            "confidence": 0.95
+                        },
+                        {
+                            "type": "text",
+                            "content": "Promote the compliance with environmental laws and rules.",
+                            "confidence": 0.93
+                        },
+                        {
+                            "type": "text",
+                            "content": "Protects the plants and animals.",
+                            "confidence": 0.96
+                        },
+                        {
+                            "type": "text",
+                            "content": "Protects the biodiversity and ecosystem.",
+                            "confidence": 0.95
+                        },
+                        {
+                            "type": "text",
+                            "content": "Helps to identify impact and take precautions.",
+                            "confidence": 0.94
+                        },
+                        {
+                            "type": "text",
+                            "content": "Helps to take correct mitigation measures.",
+                            "confidence": 0.93
+                        },
+                        {
+                            "type": "text",
+                            "content": "Helps to identify the impact and redesign the project.",
+                            "confidence": 0.93
+                        },
+                        {
+                            "type": "text",
+                            "content": "Helps to make better plan or decision on a project.",
+                            "confidence": 0.94
+                        }
+                    ],
+                    "continues_to_next_page": false,
+                    "source_page": 8
+                }
+            ]
+        }
+    ]
+}

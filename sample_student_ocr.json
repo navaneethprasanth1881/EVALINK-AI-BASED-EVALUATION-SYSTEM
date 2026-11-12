@@ -1,0 +1,259 @@
+{
+  "document": {
+    "pdf_path": "module1/ilovepdf_merged.pdf",
+    "total_pages": 3,
+    "cover_page": 1,
+    "answer_pages": [
+      2,
+      3
+    ]
+  },
+  "student": {
+    "student_name": "NIHARIKA RANJITH",
+    "register_number": "VML23AD075",
+    "roll_number": "9169",
+    "subject": "FOUNDATIONS OF DEEP LEARNING",
+    "course": "AIT401",
+    "semester": "",
+    "examination": "FN/AN/NN",
+    "date": "",
+    "department": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "page_type": "COVER",
+      "student": {
+        "student_name": "NIHARIKA RANJITH",
+        "register_number": "VML23AD075",
+        "roll_number": "9169",
+        "subject": "FOUNDATIONS OF DEEP LEARNING",
+        "course": "AIT401",
+        "semester": "",
+        "examination": "FN/AN/NN",
+        "date": "",
+        "department": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE"
+      }
+    },
+    {
+      "page_number": 2,
+      "page_type": "ANSWER",
+      "answers": [
+        {
+          "answer_number": "1",
+          "answer_text": "A MAC (Media Access Control) address is a unique hardware address assigned to a Network Interface Card (NIC). It is used to identify a device on a local network and enables data frames to be delivered to the correct device. A MAC address is typically a 48-bit hexadecimal value, such as 00:1A:2B:3C:4D:5E.",
+          "elements": [
+            {
+              "type": "text",
+              "content": "A MAC (Media Access Control) address is a unique hardware address assigned to a Network Interface Card (NIC). It is used to identify a device on a local network and enables data frames to be delivered to the correct device. A MAC address is typically a 48-bit hexadecimal value, such as 00:1A:2B:3C:4D:5E.",
+              "confidence": 0.98
+            }
+          ],
+          "continues_to_next_page": false,
+          "source_page": 2
+        },
+        {
+          "answer_number": "2",
+          "answer_text": "Firmware is software permanently or semi-permanently stored in non-volatile memory such as ROM, EEPROM or flash memory. It provides low-level instructions that control and initialize hardware devices. Firmware is typically stored in the device's ROM or flash memory. Examples include BIOS/UEFI firmware in computers and firmware in routers and embedded devices.",
+          "elements": [
+            {
+              "type": "text",
+              "content": "Firmware is software permanently or semi-permanently stored in non-volatile memory such as ROM, EEPROM or flash memory. It provides low-level instructions that control and initialize hardware devices. Firmware is typically stored in the device's ROM or flash memory. Examples include BIOS/UEFI firmware in computers and firmware in routers and embedded devices.",
+              "confidence": 0.98
+            }
+          ],
+          "continues_to_next_page": false,
+          "source_page": 2
+        },
+        {
+          "answer_number": "3",
+          "answer_text": "Little Man Computer (LMC) data movement instructions are instructions used to transfer data between memory and the accumulator. The main data movement instructions are LDA (Load), which loads a value from a memory address into the accumulator, and STO (Store), which stores the accumulator value into a memory address.",
+          "elements": [
+            {
+              "type": "text",
+              "content": "Little Man Computer (LMC) data movement instructions are instructions used to transfer data between memory and the accumulator. The main data movement instructions are LDA (Load), which loads a value from a memory address into the accumulator, and STO (Store), which stores the accumulator value into a memory address.",
+              "confidence": 0.98
+            }
+          ],
+          "continues_to_next_page": false,
+          "source_page": 2
+        },
+        {
+          "answer_number": "4",
+          "answer_text": "The bases or radices of common number systems are:\n• Binary: Base 2, uses digits 0 and 1.\n• Decimal: Base 10, uses digits 0 to 9.\n• Octal: Base 8, uses digits 0 to 7.\n• Hexadecimal: Base 16, uses digits 0 to 9 and A to F.",
+          "elements": [
+            {
+              "type": "text",
+              "content": "The bases or radices of common number systems are:\n• Binary: Base 2, uses digits 0 and 1.\n• Decimal: Base 10, uses digits 0 to 9.\n• Octal: Base 8, uses digits 0 to 7.\n• Hexadecimal: Base 16, uses digits 0 to 9 and A to F.",
+              "confidence": 0.98
+            }
+          ],
+          "continues_to_next_page": false,
+          "source_page": 2
+        },
+        {
+          "answer_number": "5",
+          "answer_text": "The 'ls' command in Linux is used to list files and directories in the current directory. Two commonly used options are:\n• -l: Displays detailed information such as permissions, owner, size and modification time.\n• -a: Displays all files, including hidden files whose names begin with a dot.",
+          "elements": [
+            {
+              "type": "text",
+              "content": "The 'ls' command in Linux is used to list files and directories in the current directory. Two commonly used options are:\n• -l: Displays detailed information such as permissions, owner, size and modification time.\n• -a: Displays all files, including hidden files whose names begin with a dot.",
+              "confidence": 0.98
+            }
+          ],
+          "continues_to_next_page": false,
+          "source_page": 2
+        },
+        {
+          "answer_number": "6",
+          "answer_text": "DHCP (Dynamic Host Configuration Protocol) is a network protocol that automatically provides devices with IP addresses and other network configuration information such as subnet mask, default gateway and DNS server addresses. It is important because it simplifies network administration, prevents address conflicts and allows devices to obtain valid network settings automatically.",
+          "elements": [
+            {
+              "type": "text",
+              "content": "DHCP (Dynamic Host Configuration Protocol) is a network protocol that automatically provides devices with IP addresses and other network configuration information such as subnet mask, default gateway and DNS server addresses. It is important because it simplifies network administration, prevents address conflicts and allows devices to obtain valid network settings automatically.",
+              "confidence": 0.98
+            }
+          ],
+          "continues_to_next_page": false,
+          "source_page": 2
+        },
+        {
+          "answer_number": "7",
+          "answer_text": "The key elements of effective web content creation are:\n• Clear and relevant content that meets the user's needs.\n• Proper organization using headings, subheadings and paragraphs.\n• Simple and readable language.\n• Appropriate use of images, videos and other multimedia.\n• Consistent formatting and visual design.\n• Accuracy, accessibility and regular updating of information.",
+          "elements": [
+            {
+              "type": "text",
+              "content": "The key elements of effective web content creation are:\n• Clear and relevant content that meets the user's needs.\n• Proper organization using headings, subheadings and paragraphs.\n• Simple and readable language.\n• Appropriate use of images, videos and other multimedia.\n• Consistent formatting and visual design.\n• Accuracy, accessibility and regular updating of information.",
+              "confidence": 0.97
+            }
+          ],
+          "continues_to_next_page": false,
+          "source_page": 2
+        },
+        {
+          "answer_number": "8",
+          "answer_text": "CSS can be applied to an HTML document in three main ways:\n1. Inline CSS - CSS is written directly inside an HTML element using the style attribute.\n2. Internal CSS - CSS rules are written inside a <style> element in the <head> section of the HTML document.\n3. External CSS - CSS rules are written in a separate .css file and linked to the HTML document using the <link> element.",
+          "elements": [
+            {
+              "type": "text",
+              "content": "CSS can be applied to an HTML document in three main ways:\n1. Inline CSS - CSS is written directly inside an HTML element using the style attribute.\n2. Internal CSS - CSS rules are written inside a <style> element in the <head> section of the HTML document.\n3. External CSS - CSS rules are written in a separate .css file and linked to the HTML document using the <link> element.",
+              "confidence": 0.98
+            }
+          ],
+          "continues_to_next_page": false,
+          "source_page": 2
+        },
+        {
+          "answer_number": "9",
+          "answer_text": "a) Main functions of device management in an operating system:\n\n1. Device allocation - The OS allocates hardware devices to processes that request them.\n2. Device control - It controls devices through device drivers and I/O controllers.\n3. I/O scheduling - It schedules I/O requests to improve efficiency and reduce waiting time.\n4. Device protection - It controls access to devices so that unauthorized processes cannot use them.\n5. Buffering and caching - It temporarily stores data during I/O operations to handle differences in speed between the CPU and devices.\n6. Error handling - It detects and handles device errors and reports them to the appropriate software.\n\nb) Role of I/O controllers:\n\nAn I/O controller is hardware that manages communication between the CPU/memory and an input or output device. It receives commands from the CPU, controls the connected device and transfers data between the device and main memory. It also maintains status information and detects errors.\n\nExamples include disk controllers for HDDs/SSDs, USB controllers for USB devices and network interface controllers for network communication.",
+          "elements": [
+            {
+              "type": "text",
+              "content": "a) Main functions of device management in an operating system:\n\n1. Device allocation - The OS allocates hardware devices to processes that request them.\n2. Device control - It controls devices through device drivers and I/O controllers.\n3. I/O scheduling - It schedules I/O requests to improve efficiency and reduce waiting time.\n4. Device protection - It controls access to devices so that unauthorized processes cannot use them.\n5. Buffering and caching - It temporarily stores data during I/O operations to handle differences in speed between the CPU and devices.\n6. Error handling - It detects and handles device errors and reports them to the appropriate software.\n\nb) Role of I/O controllers:\n\nAn I/O controller is hardware that manages communication between the CPU/memory and an input or output device. It receives commands from the CPU, controls the connected device and transfers data between the device and main memory. It also maintains status information and detects errors.\n\nExamples include disk controllers for HDDs/SSDs, USB controllers for USB devices and network interface controllers for network communication.",
+              "confidence": 0.97
+            }
+          ],
+          "continues_to_next_page": false,
+          "source_page": 2
+        },
+        {
+          "answer_number": "10",
+          "answer_text": "a) Structure and working of an HDD:\n\nAn HDD (Hard Disk Drive) consists of magnetic platters, a spindle, read/write heads, an actuator arm and a controller.\n\n1. Platters - Circular magnetic disks on which data is stored.\n2. Spindle - Rotates the platters at a high speed.\n3. Read/write heads - Read data from and write data to the magnetic surface.\n4. Actuator arm - Moves the heads to the required track.\n5. Controller - Controls data transfer between the HDD and computer.\n\nWorking: During a read operation, the actuator moves the read/write head to the required track while the platter rotates. The head detects magnetic patterns representing data and sends the data to the controller. During writing, the head changes the magnetic orientation of regions on the platter to store data.\n\nb) Optical drives use a laser to read or write data on optical discs such as CDs, DVDs and Blu-ray discs. The laser detects or modifies patterns on the disc surface.\n\nHDDs store data magnetically on rotating platters and use mechanical read/write heads. SSDs store data electronically using flash memory and have no moving parts. Optical drives use laser technology and removable optical media. HDDs generally provide large capacity at lower cost, SSDs are faster and more resistant to physical shock, while optical drives are mainly used for removable media and archival purposes.",
+          "elements": [
+            {
+              "type": "text",
+              "content": "a) Structure and working of an HDD:\n\nAn HDD (Hard Disk Drive) consists of magnetic platters, a spindle, read/write heads, an actuator arm and a controller.\n\n1. Platters - Circular magnetic disks on which data is stored.\n2. Spindle - Rotates the platters at a high speed.\n3. Read/write heads - Read data from and write data to the magnetic surface.\n4. Actuator arm - Moves the heads to the required track.\n5. Controller - Controls data transfer between the HDD and computer.\n\nWorking: During a read operation, the actuator moves the read/write head to the required track while the platter rotates. The head detects magnetic patterns representing data and sends the data to the controller. During writing, the head changes the magnetic orientation of regions on the platter to store data.\n\nb) Optical drives use a laser to read or write data on optical discs such as CDs, DVDs and Blu-ray discs. The laser detects or modifies patterns on the disc surface.\n\nHDDs store data magnetically on rotating platters and use mechanical read/write heads. SSDs store data electronically using flash memory and have no moving parts. Optical drives use laser technology and removable optical media. HDDs generally provide large capacity at lower cost, SSDs are faster and more resistant to physical shock, while optical drives are mainly used for removable media and archival purposes.",
+              "confidence": 0.97
+            }
+          ],
+          "continues_to_next_page": false,
+          "source_page": 2
+        },
+        {
+          "answer_number": "11",
+          "answer_text": "a) Convert the given numbers to decimal:\n\ni. (11011.11)₂\n= 1×2⁴ + 1×2³ + 0×2² + 1×2¹ + 1×2⁰ + 1×2⁻¹ + 1×2⁻²\n= 16 + 8 + 0 + 2 + 1 + 0.5 + 0.25\n= 27.75₁₀\n\nii. (25.5)₈\n= 2×8¹ + 5×8⁰ + 5×8⁻¹\n= 16 + 5 + 0.625\n= 21.625₁₀\n\niii. (16.6)₁₆\n= 1×16¹ + 6×16⁰ + 6×16⁻¹\n= 16 + 6 + 0.375\n= 22.375₁₀\n\nAscending order:\n21.625 < 22.375 < 27.75\n\nTherefore, the correct ascending order is:\n(25.5)₈ < (16.6)₁₆ < (11011.11)₂\n\nb) Mistake made: During decimal to base-k conversion, the trainee kept the remainders in the same order in which they were obtained. This is incorrect for the integer part.\n\nCorrect procedure:\n1. Divide the decimal integer repeatedly by the required base k.\n2. Record the remainder after each division.\n3. Continue until the quotient becomes zero.\n4. Read the remainders from bottom to top to obtain the converted integer.\n5. For a fractional part, repeatedly multiply the fraction by k and record the integer parts from top to bottom until the required precision is obtained.",
+          "elements": [
+            {
+              "type": "text",
+              "content": "a) Convert the given numbers to decimal:\n\ni. (11011.11)₂ = 27.75₁₀\n\nii. (25.5)₈ = 21.625₁₀\n\niii. (16.6)₁₆ = 22.375₁₀\n\nAscending order:\n(25.5)₈ < (16.6)₁₆ < (11011.11)₂\n\nb) Mistake made: During decimal to base-k conversion, the trainee kept the remainders in the same order in which they were obtained. This is incorrect for the integer part.\n\nCorrect procedure:\n1. Divide the decimal integer repeatedly by the required base k.\n2. Record the remainder after each division.\n3. Continue until the quotient becomes zero.\n4. Read the remainders from bottom to top to obtain the converted integer.\n5. For a fractional part, repeatedly multiply the fraction by k and record the integer parts from top to bottom until the required precision is obtained.",
+              "confidence": 0.98
+            }
+          ],
+          "continues_to_next_page": true,
+          "source_page": 2
+        },
+        {
+          "answer_number": "12",
+          "answer_text": "The CPU fetch-execute cycle for a LOAD instruction consists of the following steps:\n\n1. Fetch instruction - The Program Counter (PC) contains the address of the next instruction. The address is transferred to the Memory Address Register (MAR).\n2. Memory read - The memory location specified by the MAR is read and the instruction is transferred to the Memory Data Register (MDR).\n3. Instruction transfer - The instruction is transferred from the MDR to the Instruction Register (IR).\n4. PC update - The PC is incremented to point to the next instruction.\n5. Decode - The Control Unit decodes the LOAD instruction and identifies the required memory address.\n6. Effective address - The address field of the instruction is used to identify the memory location containing the required data.\n7. Data fetch - The required data is read from memory and transferred to the MDR.\n8. Load into accumulator - The data in the MDR is transferred to the Accumulator (ACC).\n9. Execute completion - The control unit completes the LOAD operation and the CPU proceeds to fetch the next instruction.",
+          "elements": [
+            {
+              "type": "text",
+              "content": "The CPU fetch-execute cycle for a LOAD instruction consists of the following steps:\n\n1. Fetch instruction - The Program Counter (PC) contains the address of the next instruction. The address is transferred to the Memory Address Register (MAR).\n2. Memory read - The memory location specified by the MAR is read and the instruction is transferred to the Memory Data Register (MDR).\n3. Instruction transfer - The instruction is transferred from the MDR to the Instruction Register (IR).\n4. PC update - The PC is incremented to point to the next instruction.\n5. Decode - The Control Unit decodes the LOAD instruction and identifies the required memory address.\n6. Effective address - The address field of the instruction is used to identify the memory location containing the required data.\n7. Data fetch - The required data is read from memory and transferred to the MDR.\n8. Load into accumulator - The data in the MDR is transferred to the Accumulator (ACC).\n9. Execute completion - The control unit completes the LOAD operation and the CPU proceeds to fetch the next instruction.",
+              "confidence": 0.97
+            }
+          ],
+          "continues_to_next_page": true,
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_type": "ANSWER",
+      "answers": [
+        {
+          "answer_number": "13",
+          "answer_text": "a) DHCP DORA process:\n\nDORA stands for Discover, Offer, Request and Acknowledge. It is the process used by DHCP to assign an IP address to a client.\n\n1. Discover - The client broadcasts a DHCP Discover message to locate available DHCP servers.\n2. Offer - A DHCP server responds with a DHCP Offer containing a proposed IP address and network configuration.\n3. Request - The client broadcasts a DHCP Request indicating that it accepts the offered configuration.\n4. Acknowledge - The selected DHCP server sends a DHCP ACK message confirming the IP address lease and configuration.\n\nExample: When a laptop connects to a Wi-Fi network, it sends DHCP Discover. The router/DHCP server offers an IP address such as 192.168.1.10. The laptop requests that address, and the DHCP server acknowledges it and provides the subnet mask, gateway and DNS information.\n\nb) Three common DHCP issues and their solutions:\n\n1. IP address conflict - Two devices may use the same IP address. Solution: Configure the DHCP server correctly and use DHCP-managed address pools.\n2. DHCP server unavailable - A client cannot obtain an IP address when the DHCP server is unreachable. Solution: Check network connectivity, DHCP server status and relay configuration.\n3. DHCP address pool exhaustion - No free addresses are available in the DHCP pool. Solution: Increase the address pool, reduce lease duration where appropriate, or remove unused leases.",
+          "elements": [
+            {
+              "type": "text",
+              "content": "a) DHCP DORA process:\n\nDORA stands for Discover, Offer, Request and Acknowledge. It is the process used by DHCP to assign an IP address to a client.\n\n1. Discover - The client broadcasts a DHCP Discover message to locate available DHCP servers.\n2. Offer - A DHCP server responds with a DHCP Offer containing a proposed IP address and network configuration.\n3. Request - The client broadcasts a DHCP Request indicating that it accepts the offered configuration.\n4. Acknowledge - The selected DHCP server sends a DHCP ACK message confirming the IP address lease and configuration.\n\nExample: When a laptop connects to a Wi-Fi network, it sends DHCP Discover. The router/DHCP server offers an IP address such as 192.168.1.10. The laptop requests that address, and the DHCP server acknowledges it and provides the subnet mask, gateway and DNS information.\n\nb) Three common DHCP issues and their solutions:\n\n1. IP address conflict - Two devices may use the same IP address. Solution: Configure the DHCP server correctly and use DHCP-managed address pools.\n2. DHCP server unavailable - A client cannot obtain an IP address when the DHCP server is unreachable. Solution: Check network connectivity, DHCP server status and relay configuration.\n3. DHCP address pool exhaustion - No free addresses are available in the DHCP pool. Solution: Increase the address pool, reduce lease duration where appropriate, or remove unused leases.",
+              "confidence": 0.98
+            }
+          ],
+          "continues_to_next_page": false,
+          "source_page": 3
+        },
+        {
+          "answer_number": "14",
+          "answer_text": "Network topology is the physical or logical arrangement of devices and connections in a network.\n\n1. Bus topology\nAdvantages: Simple to install, uses less cable and is inexpensive for small networks.\nDisadvantages: Failure of the main cable can affect the entire network. Performance decreases as traffic increases.\nApplication: Older Ethernet networks and small temporary networks.\n\n2. Star topology\nAdvantages: Easy to manage and troubleshoot. Failure of one device or cable normally does not affect other devices.\nDisadvantages: Requires more cable and depends on the central switch or hub.\nApplication: Modern LANs in homes, offices and educational institutions.\n\n3. Ring topology\nAdvantages: Data can travel in an organized manner and collisions can be reduced.\nDisadvantages: Failure of a node or link can affect communication in the ring.\nApplication: Some legacy and specialized networks.\n\n4. Mesh topology\nAdvantages: Provides high reliability and fault tolerance because multiple paths exist between devices.\nDisadvantages: Requires many cables and ports, making it expensive and complex.\nApplication: WANs, backbone networks and critical communication systems.\n\n5. Tree topology\nAdvantages: Scalable and suitable for hierarchical network organization.\nDisadvantages: Failure of a major backbone or higher-level device can affect a large portion of the network.\nApplication: Large organizational and campus networks.\n\n6. Hybrid topology\nAdvantages: Combines features of different topologies and can be designed according to application requirements.\nDisadvantages: More complex to design, manage and maintain.\nApplication: Large enterprise and Internet infrastructure networks.",
+          "elements": [
+            {
+              "type": "text",
+              "content": "Network topology is the physical or logical arrangement of devices and connections in a network.\n\n1. Bus topology\nAdvantages: Simple to install, uses less cable and is inexpensive for small networks.\nDisadvantages: Failure of the main cable can affect the entire network. Performance decreases as traffic increases.\nApplication: Older Ethernet networks and small temporary networks.\n\n2. Star topology\nAdvantages: Easy to manage and troubleshoot. Failure of one device or cable normally does not affect other devices.\nDisadvantages: Requires more cable and depends on the central switch or hub.\nApplication: Modern LANs in homes, offices and educational institutions.\n\n3. Ring topology\nAdvantages: Data can travel in an organized manner and collisions can be reduced.\nDisadvantages: Failure of a node or link can affect communication in the ring.\nApplication: Some legacy and specialized networks.\n\n4. Mesh topology\nAdvantages: Provides high reliability and fault tolerance because multiple paths exist between devices.\nDisadvantages: Requires many cables and ports, making it expensive and complex.\nApplication: WANs, backbone networks and critical communication systems.\n\n5. Tree topology\nAdvantages: Scalable and suitable for hierarchical network organization.\nDisadvantages: Failure of a major backbone or higher-level device can affect a large portion of the network.\nApplication: Large organizational and campus networks.\n\n6. Hybrid topology\nAdvantages: Combines features of different topologies and can be designed according to application requirements.\nDisadvantages: More complex to design, manage and maintain.\nApplication: Large enterprise and Internet infrastructure networks.",
+              "confidence": 0.97
+            }
+          ],
+          "continues_to_next_page": false,
+          "source_page": 3
+        },
+        {
+          "answer_number": "15",
+          "answer_text": "a) Suitable CSS rules:\n\nbody {\n  background-color: gray;\n}\n\nh1 {\n  text-align: center;\n}\n\np {\n  text-align: justify;\n}\n\nExplanation:\n• background-color: gray gives the webpage a gray background.\n• text-align: center centers the heading.\n• text-align: justify makes paragraph text aligned evenly along both left and right margins.\n\nb) An external stylesheet is more efficient for multi-page websites because the same CSS file can be linked to multiple HTML pages. Changes made to the external stylesheet automatically affect all linked pages. It reduces code duplication, improves consistency, makes maintenance easier and can improve loading performance because the stylesheet can be cached by the browser. Therefore, external CSS is preferable for large multi-page websites.",
+          "elements": [
+            {
+              "type": "text",
+              "content": "a) Suitable CSS rules:\n\nbody {\n  background-color: gray;\n}\n\nh1 {\n  text-align: center;\n}\n\np {\n  text-align: justify;\n}\n\nExplanation:\n• background-color: gray gives the webpage a gray background.\n• text-align: center centers the heading.\n• text-align: justify makes paragraph text aligned evenly along both left and right margins.\n\nb) An external stylesheet is more efficient for multi-page websites because the same CSS file can be linked to multiple HTML pages. Changes made to the external stylesheet automatically affect all linked pages. It reduces code duplication, improves consistency, makes maintenance easier and can improve loading performance because the stylesheet can be cached by the browser. Therefore, external CSS is preferable for large multi-page websites.",
+              "confidence": 0.98
+            }
+          ],
+          "continues_to_next_page": false,
+          "source_page": 3
+        },
+        {
+          "answer_number": "16",
+          "answer_text": "a) FTP (File Transfer Protocol) is a network protocol used to transfer files between a client and a web server. It helps manage website content by allowing files such as HTML pages, CSS files, JavaScript files, images and other resources to be uploaded, downloaded, renamed, moved and deleted on the server.\n\nFTP uses a client-server model. The FTP client connects to the web server using the server address and authentication credentials. After authentication, the user can transfer and manage files in the appropriate directories. This makes FTP useful for publishing and maintaining website content.\n\nb) Necessary steps to upload files to a web server using FTP:\n\n1. Obtain FTP credentials such as server/host address, username, password and port number from the hosting provider.\n2. Install and open an FTP client such as FileZilla.\n3. Connect to the web server using the provided FTP credentials.\n4. Locate the local folder containing the website files and the appropriate remote web directory on the server.\n5. Upload the required HTML, CSS, JavaScript, image and other files to the remote directory.\n6. Verify that the files were transferred successfully and access the website through its URL to confirm that it works correctly.",
+          "elements": [
+            {
+              "type": "text",
+              "content": "a) FTP (File Transfer Protocol) is a network protocol used to transfer files between a client and a web server. It helps manage website content by allowing files such as HTML pages, CSS files, JavaScript files, images and other resources to be uploaded, downloaded, renamed, moved and deleted on the server.\n\nFTP uses a client-server model. The FTP client connects to the web server using the server address and authentication credentials. After authentication, the user can transfer and manage files in the appropriate directories. This makes FTP useful for publishing and maintaining website content.\n\nb) Necessary steps to upload files to a web server using FTP:\n\n1. Obtain FTP credentials such as server/host address, username, password and port number from the hosting provider.\n2. Install and open an FTP client such as FileZilla.\n3. Connect to the web server using the provided FTP credentials.\n4. Locate the local folder containing the website files and the appropriate remote web directory on the server.\n5. Upload the required HTML, CSS, JavaScript, image and other files to the remote directory.\n6. Verify that the files were transferred successfully and access the website through its URL to confirm that it works correctly.",
+              "confidence": 0.98
+            }
+          ],
+          "continues_to_next_page": false,
+          "source_page": 3
+        }
+      ]
+    }
+  ]
+}

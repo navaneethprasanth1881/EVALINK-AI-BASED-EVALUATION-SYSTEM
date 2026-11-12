@@ -1,0 +1,130 @@
+{
+    "document": {
+        "pdf_path": "module1/ilovepdf_merged.pdf",
+        "total_pages": 3,
+        "cover_page": 1,
+        "answer_pages": [
+            2,
+            3
+        ]
+    },
+    "student": {
+        "student_name": "NIHARIKA RANJITH",
+        "register_number": "VML23AD075",
+        "roll_number": "9169",
+        "subject": "FOUNDATIONS OF DEEP LEARNING",
+        "course": "AIT401",
+        "semester": "",
+        "examination": "FN/AN/NN",
+        "date": "",
+        "department": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE"
+    },
+    "pages": [
+        {
+            "page_number": 1,
+            "page_type": "COVER",
+            "student": {
+                "student_name": "NIHARIKA RANJITH",
+                "register_number": "VML23AD075",
+                "roll_number": "9169",
+                "subject": "FOUNDATIONS OF DEEP LEARNING",
+                "course": "AIT401",
+                "semester": "",
+                "examination": "FN/AN/NN",
+                "date": "",
+                "department": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE"
+            }
+        },
+        {
+            "page_number": 2,
+            "page_type": "ANSWER",
+            "answers": [
+                {
+                    "answer_number": "1",
+                    "answer_text": "A Convolutional Neural Network (CNN) is a deep learning algorithm mainly used for image classification, object detection and pattern recognition. It automatically extracts features from images without manual intervention.\n\nWorking of CNN\n\n1. Input Layer.\n• The input is an image represented as a matrix of pixel values.\n\n2. Convolution Layer.\n• Filters (kernels) slide over the image extracts features such as: edges, corners and textures.\n• The output is called feature map.\n\n3. Activation Layer (ReLU)\n• ReLU replaces negative values with zero\n\n4. Pooling Layer.\n• Reduces the dimensions of the feature map\n• Max pooling is commonly used to retain important features while reducing computation.\n\n5. Flattening\n• converts the pooled feature maps into 1D vector\n\n6. Fully connected Layer.\n• uses the extracted features to classify the image\n\n7. Output Layer.\n• Produces the final prediction using softmax or sigmoid",
+                    "elements": [
+                        {
+                            "type": "text",
+                            "content": "A Convolutional Neural Network (CNN) is a deep learning algorithm mainly used for image classification, object detection and pattern recognition. It automatically extracts features from images without manual intervention.",
+                            "confidence": 0.95
+                        },
+                        {
+                            "type": "text",
+                            "content": "Working of CNN",
+                            "confidence": 0.97
+                        },
+                        {
+                            "type": "text",
+                            "content": "1. Input Layer.\n• The input is an image represented as a matrix of pixel values.",
+                            "confidence": 0.96
+                        },
+                        {
+                            "type": "text",
+                            "content": "2. Convolution Layer.\n• Filters (kernels) slide over the image extracts features such as: edges, corners and textures.\n• The output is called feature map.",
+                            "confidence": 0.95
+                        },
+                        {
+                            "type": "text",
+                            "content": "3. Activation Layer (ReLU)\n• ReLU replaces negative values with zero",
+                            "confidence": 0.96
+                        },
+                        {
+                            "type": "text",
+                            "content": "4. Pooling Layer.\n• Reduces the dimensions of the feature map\n• Max pooling is commonly used to retain important features while reducing computation.",
+                            "confidence": 0.95
+                        },
+                        {
+                            "type": "text",
+                            "content": "5. Flattening\n• converts the pooled feature maps into 1D vector",
+                            "confidence": 0.95
+                        },
+                        {
+                            "type": "text",
+                            "content": "6. Fully connected Layer.\n• uses the extracted features to classify the image",
+                            "confidence": 0.95
+                        },
+                        {
+                            "type": "text",
+                            "content": "7. Output Layer.\n• Produces the final prediction using softmax or sigmoid",
+                            "confidence": 0.94
+                        }
+                    ],
+                    "continues_to_next_page": true,
+                    "source_page": 2
+                }
+            ]
+        },
+        {
+            "page_number": 3,
+            "page_type": "ANSWER",
+            "answers": [
+                {
+                    "answer_number": "1",
+                    "answer_text": "8. Training\n• The prediction error is calculated using loss-function\n\nAdvantages.\n• Automatic feature extraction\n• Suitable for image processing tasks.",
+                    "elements": [
+                        {
+                            "type": "text",
+                            "content": "8. Training\n• The prediction error is calculated using loss-function\n\nAdvantages.\n• Automatic feature extraction\n• Suitable for image processing tasks.",
+                            "confidence": 0.91
+                        }
+                    ],
+                    "continues_to_next_page": false,
+                    "source_page": 3
+                },
+                {
+                    "answer_number": "2",
+                    "answer_text": "The water cycle is the continuous movement of water between the Earth's surface and the atmosphere. It maintains the balance of water in nature.\n\n(i) Evaporation - Sunlight heats water in oceans, rivers, lakes, ponds, converting into water vapour.\n\n(ii) Transpiration - Plants release water vapour through their leaves.\n\n(iii) Condensation - water vapour cools and changes into tiny droplets, forming clouds.\n\n(iv) Precipitation - water falls back to Earth as rain, snow, sleet or hail.\n\n(v) Infiltration - some water sweeps into the soil and replenishes groundwater.\n\n(vi) Runoff - The remaining water flows into rivers, lakes and oceans.\n\n(vii) Collection - Water is stored in oceans, lakes, rivers and underground, where the cycle begins again.\n\nImportance.\n* Maintaining freshwater availability\n* Recharges groundwater\n* Supports agriculture and ecosystems\n* Helps regulate climate.",
+                    "elements": [
+                        {
+                            "type": "text",
+                            "content": "The water cycle is the continuous movement of water between the Earth's surface and the atmosphere. It maintains the balance of water in nature.\n\n(i) Evaporation - Sunlight heats water in oceans, rivers, lakes, ponds, converting into water vapour.\n\n(ii) Transpiration - Plants release water vapour through their leaves.\n\n(iii) Condensation - water vapour cools and changes into tiny droplets, forming clouds.\n\n(iv) Precipitation - water falls back to Earth as rain, snow, sleet or hail.\n\n(v) Infiltration - some water sweeps into the soil and replenishes groundwater.\n\n(vi) Runoff - The remaining water flows into rivers, lakes and oceans.\n\n(vii) Collection - Water is stored in oceans, lakes, rivers and underground, where the cycle begins again.\n\nImportance.\n* Maintaining freshwater availability\n* Recharges groundwater\n* Supports agriculture and ecosystems\n* Helps regulate climate.",
+                            "confidence": 0.93
+                        }
+                    ],
+                    "continues_to_next_page": false,
+                    "source_page": 3
+                }
+            ]
+        }
+    ]
+}

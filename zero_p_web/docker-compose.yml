@@ -1,0 +1,14 @@
+services:
+  backend:
+    build: ./backend
+    ports: ["8000:8000"]
+    environment:
+      DATABASE_URL: sqlite:////app/data/zero_p.db
+      JWT_SECRET: change-this-before-production
+      CORS_ORIGINS: http://localhost:5173
+      WEB_EVALUATION_MODEL: qwen2.5:14b
+    volumes: ["./backend/data:/app/data"]
+  frontend:
+    build: ./frontend
+    ports: ["5173:80"]
+    depends_on: [backend]
